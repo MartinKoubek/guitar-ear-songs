@@ -1,0 +1,538 @@
+{
+  "schemaVersion": 1,
+  "title": "Hot Cross Buns - First Bass",
+  "bpm": 50,
+  "beatsPerMeasure": 4,
+  "showChordNames": false,
+  "lesson": {
+    "instructions": "Use your thumb (p) for the thick low E string, always open (fret 0). Use your index or middle finger for the thin high E melody at frets 4, 2 and 0.\n\nAfter the count-in, bars 3-4 practise bass alone: play for two beats, then rest for two. Bars 5-8 alternate a bass bar with the 4-2-0 phrase. Bars 9-18 play a bass bar, then the whole four-bar tune; repeat once.\n\nPlay bass first, then melody. No two notes together yet. Start at 50 BPM and slow down whenever you need.",
+    "selfPaced": false,
+    "defaultSound": "beat",
+    "previewMelody": true
+  },
+  "measures": [
+    {
+      "metronome": true,
+      "notes": []
+    },
+    {
+      "metronome": true,
+      "notes": []
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 2,
+          "string": 5,
+          "fret": 0
+        }
+      ],
+      "rests": [
+        {
+          "beat": 2,
+          "duration": 2
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 2,
+          "string": 5,
+          "fret": 0
+        }
+      ],
+      "rests": [
+        {
+          "beat": 2,
+          "duration": 2
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 2,
+          "string": 5,
+          "fret": 0
+        }
+      ],
+      "rests": [
+        {
+          "beat": 2,
+          "duration": 2
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 0,
+          "fret": 4
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2,
+          "duration": 2,
+          "string": 0,
+          "fret": 0
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 2,
+          "string": 5,
+          "fret": 0
+        }
+      ],
+      "rests": [
+        {
+          "beat": 2,
+          "duration": 2
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 0,
+          "fret": 4
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2,
+          "duration": 2,
+          "string": 0,
+          "fret": 0
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 2,
+          "string": 5,
+          "fret": 0
+        }
+      ],
+      "rests": [
+        {
+          "beat": 2,
+          "duration": 2
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 0,
+          "fret": 4
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2,
+          "duration": 2,
+          "string": 0,
+          "fret": 0
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 0,
+          "fret": 4
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2,
+          "duration": 2,
+          "string": 0,
+          "fret": 0
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 0.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 2.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 3.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 3.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 0,
+          "fret": 4
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2,
+          "duration": 2,
+          "string": 0,
+          "fret": 0
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 2,
+          "string": 5,
+          "fret": 0
+        }
+      ],
+      "rests": [
+        {
+          "beat": 2,
+          "duration": 2
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 0,
+          "fret": 4
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2,
+          "duration": 2,
+          "string": 0,
+          "fret": 0
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 0,
+          "fret": 4
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2,
+          "duration": 2,
+          "string": 0,
+          "fret": 0
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 0.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 2.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 3.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 3.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 0,
+          "fret": 4
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2,
+          "duration": 2,
+          "string": 0,
+          "fret": 0
+        }
+      ]
+    }
+  ],
+  "backing": {
+    "volume": 0.35,
+    "measures": [
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": [
+          {
+            "beat": 1,
+            "duration": 2,
+            "string": 1,
+            "fret": 0,
+            "volume": 0.45
+          }
+        ]
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": [
+          {
+            "beat": 1,
+            "duration": 2,
+            "string": 1,
+            "fret": 0,
+            "volume": 0.45
+          }
+        ]
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": [
+          {
+            "beat": 1,
+            "duration": 2,
+            "string": 1,
+            "fret": 0,
+            "volume": 0.45
+          }
+        ]
+      },
+      {
+        "notes": [
+          {
+            "beat": 1,
+            "duration": 2,
+            "string": 1,
+            "fret": 0,
+            "volume": 0.45
+          }
+        ]
+      },
+      {
+        "notes": [
+          {
+            "beat": 1,
+            "duration": 2,
+            "string": 1,
+            "fret": 0,
+            "volume": 0.45
+          }
+        ]
+      },
+      {
+        "notes": [
+          {
+            "beat": 1,
+            "duration": 2,
+            "string": 1,
+            "fret": 0,
+            "volume": 0.45
+          }
+        ]
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": [
+          {
+            "beat": 1,
+            "duration": 2,
+            "string": 1,
+            "fret": 0,
+            "volume": 0.45
+          }
+        ]
+      },
+      {
+        "notes": [
+          {
+            "beat": 1,
+            "duration": 2,
+            "string": 1,
+            "fret": 0,
+            "volume": 0.45
+          }
+        ]
+      },
+      {
+        "notes": [
+          {
+            "beat": 1,
+            "duration": 2,
+            "string": 1,
+            "fret": 0,
+            "volume": 0.45
+          }
+        ]
+      },
+      {
+        "notes": [
+          {
+            "beat": 1,
+            "duration": 2,
+            "string": 1,
+            "fret": 0,
+            "volume": 0.45
+          }
+        ]
+      }
+    ]
+  }
+}

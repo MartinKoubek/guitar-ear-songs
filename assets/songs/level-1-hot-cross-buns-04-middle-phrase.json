@@ -1,0 +1,418 @@
+{
+  "schemaVersion": 1,
+  "title": "Hot Cross Buns - The Quicker Middle",
+  "bpm": 60,
+  "beatsPerMeasure": 4,
+  "showChordNames": false,
+  "lesson": {
+    "instructions": "Play the open high E string four times, then fret 2 four times. These are eighth notes: count 1-and-2-and-3-and-4-and. Gently alternate your index and middle picking fingers. Rest for one bar before trying again. Keep the true rhythm and slow the tempo if needed.",
+    "selfPaced": false,
+    "defaultSound": "beat",
+    "previewMelody": true
+  },
+  "measures": [
+    {
+      "metronome": true,
+      "notes": []
+    },
+    {
+      "metronome": true,
+      "notes": []
+    },
+    {
+      "notes": [
+        {
+          "beat": 0.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 0.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 2.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 3.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 3.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        }
+      ]
+    },
+    {
+      "notes": [],
+      "rests": [
+        {
+          "beat": 0,
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 0.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 2.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 3.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 3.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        }
+      ]
+    },
+    {
+      "notes": [],
+      "rests": [
+        {
+          "beat": 0,
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 0.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 2.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 3.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 3.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        }
+      ]
+    },
+    {
+      "notes": [],
+      "rests": [
+        {
+          "beat": 0,
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 0.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 2.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 3.0,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 3.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        }
+      ]
+    },
+    {
+      "notes": [],
+      "rests": [
+        {
+          "beat": 0,
+          "duration": 4
+        }
+      ]
+    }
+  ],
+  "backing": {
+    "volume": 0.65,
+    "measures": [
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": [
+          {
+            "beat": 0,
+            "duration": 4,
+            "string": 5,
+            "fret": 0,
+            "volume": 0.7
+          },
+          {
+            "beat": 1,
+            "duration": 3,
+            "string": 3,
+            "fret": 2,
+            "volume": 0.45
+          },
+          {
+            "beat": 2,
+            "duration": 2,
+            "string": 2,
+            "fret": 1,
+            "volume": 0.4
+          },
+          {
+            "beat": 3,
+            "duration": 1,
+            "string": 1,
+            "fret": 0,
+            "volume": 0.35
+          }
+        ]
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": [
+          {
+            "beat": 0,
+            "duration": 4,
+            "string": 5,
+            "fret": 0,
+            "volume": 0.7
+          },
+          {
+            "beat": 1,
+            "duration": 3,
+            "string": 3,
+            "fret": 2,
+            "volume": 0.45
+          },
+          {
+            "beat": 2,
+            "duration": 2,
+            "string": 2,
+            "fret": 1,
+            "volume": 0.4
+          },
+          {
+            "beat": 3,
+            "duration": 1,
+            "string": 1,
+            "fret": 0,
+            "volume": 0.35
+          }
+        ]
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": [
+          {
+            "beat": 0,
+            "duration": 4,
+            "string": 5,
+            "fret": 0,
+            "volume": 0.7
+          },
+          {
+            "beat": 1,
+            "duration": 3,
+            "string": 3,
+            "fret": 2,
+            "volume": 0.45
+          },
+          {
+            "beat": 2,
+            "duration": 2,
+            "string": 2,
+            "fret": 1,
+            "volume": 0.4
+          },
+          {
+            "beat": 3,
+            "duration": 1,
+            "string": 1,
+            "fret": 0,
+            "volume": 0.35
+          }
+        ]
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": [
+          {
+            "beat": 0,
+            "duration": 4,
+            "string": 5,
+            "fret": 0,
+            "volume": 0.7
+          },
+          {
+            "beat": 1,
+            "duration": 3,
+            "string": 3,
+            "fret": 2,
+            "volume": 0.45
+          },
+          {
+            "beat": 2,
+            "duration": 2,
+            "string": 2,
+            "fret": 1,
+            "volume": 0.4
+          },
+          {
+            "beat": 3,
+            "duration": 1,
+            "string": 1,
+            "fret": 0,
+            "volume": 0.35
+          }
+        ]
+      },
+      {
+        "notes": []
+      }
+    ]
+  }
+}

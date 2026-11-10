@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "levelCount": 15,
+  "songs": [
+    {
+      "id": "level-1-hot-cross-buns-01-right-hand",
+      "level": 1,
+      "sublevelId": "hot-cross-buns",
+      "title": "Hot Cross Buns - Right Hand & Rhythm",
+      "description": "Preparation: open high E, steady beats and rests.",
+      "asset": "songs/level-1-hot-cross-buns-01-right-hand.json"
+    },
+    {
+      "id": "level-1-hot-cross-buns-02-first-notes",
+      "level": 1,
+      "sublevelId": "hot-cross-buns",
+      "title": "Hot Cross Buns - First Fretted Notes",
+      "description": "At your own pace: open high E, then frets 2 and 4.",
+      "asset": "songs/level-1-hot-cross-buns-02-first-notes.json"
+    },
+    {
+      "id": "level-1-hot-cross-buns-03-first-phrase",
+      "level": 1,
+      "sublevelId": "hot-cross-buns",
+      "title": "Hot Cross Buns - First Musical Phrase",
+      "description": "The real opening: 4, 2, 0. Play, rest, then repeat.",
+      "asset": "songs/level-1-hot-cross-buns-03-first-phrase.json"
+    },
+    {
+      "id": "level-1-hot-cross-buns-04-middle-phrase",
+      "level": 1,
+      "sublevelId": "hot-cross-buns",
+      "title": "Hot Cross Buns - The Quicker Middle",
+      "description": "Four open-string eighths, then four eighths at fret 2.",
+      "asset": "songs/level-1-hot-cross-buns-04-middle-phrase.json"
+    },
+    {
+      "id": "level-1-hot-cross-buns-05-complete-song",
+      "level": 1,
+      "sublevelId": "hot-cross-buns",
+      "title": "Hot Cross Buns - The Complete Tune",
+      "description": "The complete four-bar melody, played three times.",
+      "asset": "songs/level-1-hot-cross-buns-05-complete-song.json"
+    },
+    {
+      "id": "level-1-hot-cross-buns-06-first-bass",
+      "level": 1,
+      "sublevelId": "hot-cross-buns",
+      "title": "Hot Cross Buns - First Bass",
+      "description": "Thumb on open low E, then the familiar melody. One note at a time. 50 BPM.",
+      "asset": "songs/level-1-hot-cross-buns-06-first-bass.json"
+    },
+    {
+      "id": "level-1-hot-cross-buns-07-bass-and-melody",
+      "level": 1,
+      "sublevelId": "hot-cross-buns",
+      "title": "Hot Cross Buns - Alternating Bass",
+      "description": "Alternate open low E and A-string fret 2 (B) under the familiar melody. 50 BPM.",
+      "asset": "songs/level-1-hot-cross-buns-07-bass-and-melody.json"
+    },
+    {
+      "id": "level-1-hot-cross-buns-08-across-strings",
+      "level": 1,
+      "sublevelId": "hot-cross-buns",
+      "title": "Hot Cross Buns - Melody Across Strings",
+      "description": "Keep high E frets 4/2; move melody E to B-string fret 5. Familiar E/B bass. 45 BPM.",
+      "asset": "songs/level-1-hot-cross-buns-08-across-strings.json"
+    }
+  ],
+  "levels": [
+    {
+      "number": 1,
+      "title": "First Notes & Rhythm",
+      "description": "Open strings, your first fretted notes and a steady rhythm."
+    }
+  ],
+  "sublevels": [
+    {
+      "id": "hot-cross-buns",
+      "level": 1,
+      "title": "Hot Cross Buns",
+      "description": "Your first solo melody, then thumb bass and two notes together."
+    }
+  ]
+}
