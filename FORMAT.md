@@ -25,3 +25,14 @@ Optional `backing` contains `volume` (0-1) and `measures` aligned with the full 
 ## Validation
 
 The Android project contains authoritative Kotlin validation and regression tests. Run its JDK17 `./gradlew testDebugUnitTest lintDebug assembleDebug` with this library checked out as its submodule. Do not publish malformed catalogs or songs, and preserve working revisions for older app versions.
+
+
+## Version 2 guitar chords
+
+Mary Level2 scores use `schemaVersion:2` and require an updated app. The catalog remains schemaVersion1. Version2 supports synchronous untied groups of 2-4 distinct strings/pitches in MIDI40-88, equal duration, adjacent sorted pitches at least two semitones apart, including octaves. Reject unisons, more than four voices, unequal durations and staggered overlaps. Version1 keeps its separated-dyad restrictions.
+
+Optional `chordFingerings` is a map of chord name to nonblank English actual partial-shape instructions. It does not change the note data. Mary uses original D (A5/D4/G2) to retain the A3 melody. All five Mary lessons include real count-in, opening-phrase preparation and two full eight-bar repetitions. Authored backing is explicitly silent; `previewMelody:true` demonstrates the learner's written part.
+
+Expanded chord listening uses 8192-sample windows, a 32768-point padded FFT and a 4096-sample hop (about 93ms), skipping redundant monophonic analysis. V1 keeps its original 2048-sample hop. V2 polyphonic practice is capped at 90BPM for quarter notes / 50BPM with eighths, while preserving authored defaults. Three stable frames plus the 200ms analysis-tail guard still fit the written note windows.
+
+Twinkle uses schema2 unchanged. The final picking texture explicitly writes melody plucks as eighth notes on integer beats and lighter open-string fills on half beats; original half-note phrase endings are preserved. All groups have equal duration and no staggered overlap. The D/F# bonus changes D downbeat bass to F#2 while retaining open-D fills. Stable group: twinkle-twinkle-little-star, Level2, ten lessons. Main backing is silent and previews demonstrate written notes.

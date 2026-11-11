@@ -1,6 +1,6 @@
 # Guitar Ear Songs
 
-Public JSON content library for the Guitar Ear Android app. The current reference curriculum is **Hot Cross Buns**, taught in eight progressive lessons.
+Public JSON content library for the Guitar Ear Android app. The current reference curriculum is **Hot Cross Buns**, taught in eight progressive Level1 lessons. Level2 adds five Mary Had a Little Lamb lessons from melody to four-note fingerstyle chords (song schemaVersion2, updated app required).
 
 | Step | Lesson | Default pace |
 | --- | --- | --- |
@@ -39,3 +39,5 @@ git submodule update --init --recursive
 Keep existing IDs stable. Update the song JSON and catalog together. Validate changes using the Android project's JDK17 unit/lint/build checks before publishing. Commit and push library changes first, then update the app's submodule pointer when that version should be bundled.
 
 This repository provides public content files. Download/synchronisation behavior in the phone app is a separate feature; the submodule manages source checkouts and bundled content.
+
+Level2 also includes ten Twinkle, Twinkle, Little Star lessons: six melody targets, phrases, full melody, E/A/D bass, offbeat picking, full G/C/D fingerstyle and an optional D/F# bass variant. This is an independent traditional-tune arrangement. The current catalog has23 lessons and uses the existing schema2 app reader; no new APK feature is needed for these JSONs.

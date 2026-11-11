@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 2,
+  "title": "Twinkle, Twinkle, Little Star - The Opening Phrase",
+  "bpm": 55,
+  "beatsPerMeasure": 4,
+  "showChordNames": false,
+  "lesson": {
+    "instructions": "Play the opening two bars on the G, B and high E strings. Count four steady beats in each bar and hold the half-note endings for two beats. Rest for one bar before each new attempt. The phrase appears four times. No bass or chord grip yet.",
+    "selfPaced": false,
+    "defaultSound": "beat",
+    "previewMelody": true
+  },
+  "measures": [
+    {
+      "metronome": true,
+      "notes": []
+    },
+    {
+      "metronome": true,
+      "notes": []
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 2,
+          "fret": 0
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 2,
+          "fret": 0
+        },
+        {
+          "beat": 2,
+          "duration": 1,
+          "string": 1,
+          "fret": 3
+        },
+        {
+          "beat": 3,
+          "duration": 1,
+          "string": 1,
+          "fret": 3
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 2,
+          "duration": 2,
+          "string": 1,
+          "fret": 3
+        }
+      ]
+    },
+    {
+      "notes": [],
+      "rests": [
+        {
+          "beat": 0,
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 2,
+          "fret": 0
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 2,
+          "fret": 0
+        },
+        {
+          "beat": 2,
+          "duration": 1,
+          "string": 1,
+          "fret": 3
+        },
+        {
+          "beat": 3,
+          "duration": 1,
+          "string": 1,
+          "fret": 3
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 2,
+          "duration": 2,
+          "string": 1,
+          "fret": 3
+        }
+      ]
+    },
+    {
+      "notes": [],
+      "rests": [
+        {
+          "beat": 0,
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 2,
+          "fret": 0
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 2,
+          "fret": 0
+        },
+        {
+          "beat": 2,
+          "duration": 1,
+          "string": 1,
+          "fret": 3
+        },
+        {
+          "beat": 3,
+          "duration": 1,
+          "string": 1,
+          "fret": 3
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 2,
+          "duration": 2,
+          "string": 1,
+          "fret": 3
+        }
+      ]
+    },
+    {
+      "notes": [],
+      "rests": [
+        {
+          "beat": 0,
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 2,
+          "fret": 0
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 2,
+          "fret": 0
+        },
+        {
+          "beat": 2,
+          "duration": 1,
+          "string": 1,
+          "fret": 3
+        },
+        {
+          "beat": 3,
+          "duration": 1,
+          "string": 1,
+          "fret": 3
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 2,
+          "duration": 2,
+          "string": 1,
+          "fret": 3
+        }
+      ]
+    },
+    {
+      "notes": [],
+      "rests": [
+        {
+          "beat": 0,
+          "duration": 4
+        }
+      ]
+    }
+  ],
+  "backing": {
+    "measures": [
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      }
+    ]
+  }
+}

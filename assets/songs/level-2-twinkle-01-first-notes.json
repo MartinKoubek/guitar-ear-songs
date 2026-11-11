@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "title": "Twinkle, Twinkle, Little Star - First Melody Notes",
+  "bpm": 55,
+  "beatsPerMeasure": 4,
+  "showChordNames": false,
+  "lesson": {
+    "instructions": "Choose a melody target, prepare your finger and start listening. G string: open or fret 2. B string: open, fret 1 or fret 3. High E: open. There is no timer. Use index and middle picking fingers; try each target until it feels comfortable. Finish manually.",
+    "selfPaced": true,
+    "defaultSound": "beat",
+    "previewMelody": true
+  },
+  "measures": [
+    {
+      "metronome": true,
+      "notes": []
+    },
+    {
+      "metronome": true,
+      "notes": []
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 2,
+          "fret": 0
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 2,
+          "fret": 2
+        },
+        {
+          "beat": 2,
+          "duration": 1,
+          "string": 1,
+          "fret": 0
+        },
+        {
+          "beat": 3,
+          "duration": 1,
+          "string": 1,
+          "fret": 1
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 1,
+          "fret": 3
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 0,
+          "fret": 0
+        }
+      ],
+      "rests": [
+        {
+          "beat": 2,
+          "duration": 2
+        }
+      ]
+    }
+  ],
+  "backing": {
+    "measures": [
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      }
+    ]
+  }
+}
