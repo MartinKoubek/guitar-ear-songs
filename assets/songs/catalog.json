@@ -1,222 +1,24 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "levelCount": 15,
-  "songs": [
-    {
-      "id": "level-1-hot-cross-buns-01-right-hand",
-      "level": 1,
-      "sublevelId": "hot-cross-buns",
-      "title": "Hot Cross Buns - Right Hand & Rhythm",
-      "description": "Preparation: open high E, steady beats and rests.",
-      "asset": "songs/level-1-hot-cross-buns-01-right-hand.json"
-    },
-    {
-      "id": "level-1-hot-cross-buns-02-first-notes",
-      "level": 1,
-      "sublevelId": "hot-cross-buns",
-      "title": "Hot Cross Buns - First Fretted Notes",
-      "description": "At your own pace: open high E, then frets 2 and 4.",
-      "asset": "songs/level-1-hot-cross-buns-02-first-notes.json"
-    },
-    {
-      "id": "level-1-hot-cross-buns-03-first-phrase",
-      "level": 1,
-      "sublevelId": "hot-cross-buns",
-      "title": "Hot Cross Buns - First Musical Phrase",
-      "description": "The real opening: 4, 2, 0. Play, rest, then repeat.",
-      "asset": "songs/level-1-hot-cross-buns-03-first-phrase.json"
-    },
-    {
-      "id": "level-1-hot-cross-buns-04-middle-phrase",
-      "level": 1,
-      "sublevelId": "hot-cross-buns",
-      "title": "Hot Cross Buns - The Quicker Middle",
-      "description": "Four open-string eighths, then four eighths at fret 2.",
-      "asset": "songs/level-1-hot-cross-buns-04-middle-phrase.json"
-    },
-    {
-      "id": "level-1-hot-cross-buns-05-complete-song",
-      "level": 1,
-      "sublevelId": "hot-cross-buns",
-      "title": "Hot Cross Buns - The Complete Tune",
-      "description": "The complete four-bar melody, played three times.",
-      "asset": "songs/level-1-hot-cross-buns-05-complete-song.json"
-    },
-    {
-      "id": "level-1-hot-cross-buns-06-first-bass",
-      "level": 1,
-      "sublevelId": "hot-cross-buns",
-      "title": "Hot Cross Buns - First Bass",
-      "description": "Thumb on open low E, then the familiar melody. One note at a time. 50 BPM.",
-      "asset": "songs/level-1-hot-cross-buns-06-first-bass.json"
-    },
-    {
-      "id": "level-1-hot-cross-buns-07-bass-and-melody",
-      "level": 1,
-      "sublevelId": "hot-cross-buns",
-      "title": "Hot Cross Buns - Alternating Bass",
-      "description": "Alternate open low E and A-string fret 2 (B) under the familiar melody. 50 BPM.",
-      "asset": "songs/level-1-hot-cross-buns-07-bass-and-melody.json"
-    },
-    {
-      "id": "level-1-hot-cross-buns-08-across-strings",
-      "level": 1,
-      "sublevelId": "hot-cross-buns",
-      "title": "Hot Cross Buns - Melody Across Strings",
-      "description": "Keep high E frets 4/2; move melody E to B-string fret 5. Familiar E/B bass. 45 BPM.",
-      "asset": "songs/level-1-hot-cross-buns-08-across-strings.json"
-    },
-    {
-      "id": "level-2-mary-01-melody",
-      "level": 2,
-      "sublevelId": "mary-had-a-little-lamb",
-      "title": "Mary Had a Little Lamb - The Melody",
-      "description": "Play the melody on the G and B strings.",
-      "asset": "songs/level-2-mary-01-melody.json"
-    },
-    {
-      "id": "level-2-mary-02-e-bass",
-      "level": 2,
-      "sublevelId": "mary-had-a-little-lamb",
-      "title": "Mary Had a Little Lamb - First E Bass",
-      "description": "Keep the same melody.",
-      "asset": "songs/level-2-mary-02-e-bass.json"
-    },
-    {
-      "id": "level-2-mary-03-a-bass",
-      "level": 2,
-      "sublevelId": "mary-had-a-little-lamb",
-      "title": "Mary Had a Little Lamb - Adding A-String Bass",
-      "description": "Keep the E-string bass.",
-      "asset": "songs/level-2-mary-03-a-bass.json"
-    },
-    {
-      "id": "level-2-mary-04-d-tones",
-      "level": 2,
-      "sublevelId": "mary-had-a-little-lamb",
-      "title": "Mary Had a Little Lamb - Adding D-String Tones",
-      "description": "Add the written D-string tones: open for G, fret 2 for Em, fret 4 for D.",
-      "asset": "songs/level-2-mary-04-d-tones.json"
-    },
-    {
-      "id": "level-2-mary-05-complete-fingerstyle",
-      "level": 2,
-      "sublevelId": "mary-had-a-little-lamb",
-      "title": "Mary Had a Little Lamb - The Complete Fingerstyle Tune",
-      "description": "Play the full melody with the written G, Em and D chord voices.",
-      "asset": "songs/level-2-mary-05-complete-fingerstyle.json"
-    },
-    {
-      "id": "level-2-twinkle-01-first-notes",
-      "level": 2,
-      "sublevelId": "twinkle-twinkle-little-star",
-      "title": "Twinkle, Twinkle, Little Star - First Melody Notes",
-      "description": "Find six melody notes on the G, B and high E strings, without a timer.",
-      "asset": "songs/level-2-twinkle-01-first-notes.json"
-    },
-    {
-      "id": "level-2-twinkle-02-opening-phrase",
-      "level": 2,
-      "sublevelId": "twinkle-twinkle-little-star",
-      "title": "Twinkle, Twinkle, Little Star - The Opening Phrase",
-      "description": "Recognise the opening two bars; play, rest and repeat.",
-      "asset": "songs/level-2-twinkle-02-opening-phrase.json"
-    },
-    {
-      "id": "level-2-twinkle-03-middle-and-ending",
-      "level": 2,
-      "sublevelId": "twinkle-twinkle-little-star",
-      "title": "Twinkle, Twinkle, Little Star - The Middle and the Ending",
-      "description": "Practise the ending and the middle before joining the tune.",
-      "asset": "songs/level-2-twinkle-03-middle-and-ending.json"
-    },
-    {
-      "id": "level-2-twinkle-04-complete-melody",
-      "level": 2,
-      "sublevelId": "twinkle-twinkle-little-star",
-      "title": "Twinkle, Twinkle, Little Star - The Complete Melody",
-      "description": "Play the complete twelve-bar melody twice, without bass.",
-      "asset": "songs/level-2-twinkle-04-complete-melody.json"
-    },
-    {
-      "id": "level-2-twinkle-05-e-bass",
-      "level": 2,
-      "sublevelId": "twinkle-twinkle-little-star",
-      "title": "Twinkle, Twinkle, Little Star - First Low E Bass",
-      "description": "Add G bass on low E fret 3 while keeping the familiar melody.",
-      "asset": "songs/level-2-twinkle-05-e-bass.json"
-    },
-    {
-      "id": "level-2-twinkle-06-a-bass",
-      "level": 2,
-      "sublevelId": "twinkle-twinkle-little-star",
-      "title": "Twinkle, Twinkle, Little Star - Adding A-String Bass",
-      "description": "Keep G bass and add C bass on A-string fret 3.",
-      "asset": "songs/level-2-twinkle-06-a-bass.json"
-    },
-    {
-      "id": "level-2-twinkle-07-d-bass",
-      "level": 2,
-      "sublevelId": "twinkle-twinkle-little-star",
-      "title": "Twinkle, Twinkle, Little Star - Adding D-String Bass",
-      "description": "Add open D bass; choose between three bass strings.",
-      "asset": "songs/level-2-twinkle-07-d-bass.json"
-    },
-    {
-      "id": "level-2-twinkle-08-filling-the-gaps",
-      "level": 2,
-      "sublevelId": "twinkle-twinkle-little-star",
-      "title": "Twinkle, Twinkle, Little Star - Filling the Gaps",
-      "description": "Practise gentle offbeat plucks over G, C and D.",
-      "asset": "songs/level-2-twinkle-08-filling-the-gaps.json"
-    },
-    {
-      "id": "level-2-twinkle-09-complete-fingerstyle",
-      "level": 2,
-      "sublevelId": "twinkle-twinkle-little-star",
-      "title": "Twinkle, Twinkle, Little Star - The Complete Fingerstyle Tune",
-      "description": "Join melody, G/C/D bass and light offbeat plucks.",
-      "asset": "songs/level-2-twinkle-09-complete-fingerstyle.json"
-    },
-    {
-      "id": "level-2-twinkle-10-f-sharp-bass",
-      "level": 2,
-      "sublevelId": "twinkle-twinkle-little-star",
-      "title": "Twinkle, Twinkle, Little Star - Optional: The F-Sharp Bass",
-      "description": "Optional: replace the D bass with F-sharp on low E fret 2.",
-      "asset": "songs/level-2-twinkle-10-f-sharp-bass.json"
-    }
-  ],
+  "defaultCover": "default-cover.webp",
   "levels": [
     {
       "number": 1,
       "title": "First Notes & Rhythm",
-      "description": "Open strings, your first fretted notes and a steady rhythm."
+      "description": "Open strings, your first fretted notes and a steady rhythm.",
+      "songs": [
+        "level-01/hot-cross-buns/song.json"
+      ]
     },
     {
       "number": 2,
       "title": "Melody, Bass & First Chords",
-      "description": "Keep a familiar melody while building simple three- and four-note fingerstyle chords."
-    }
-  ],
-  "sublevels": [
-    {
-      "id": "hot-cross-buns",
-      "level": 1,
-      "title": "Hot Cross Buns",
-      "description": "Your first solo melody, then thumb bass and two notes together."
-    },
-    {
-      "id": "mary-had-a-little-lamb",
-      "level": 2,
-      "title": "Mary Had a Little Lamb",
-      "description": "From the melody to E- and A-string bass, D-string tones and complete fingerstyle."
-    },
-    {
-      "id": "twinkle-twinkle-little-star",
-      "level": 2,
-      "title": "Twinkle, Twinkle, Little Star",
-      "description": "From six melody notes to E/A/D bass, gentle offbeat picking and an optional F-sharp bass."
+      "description": "Keep a familiar melody while building simple three- and four-note fingerstyle chords.",
+      "songs": [
+        "level-02/mary-had-a-little-lamb/song.json",
+        "level-02/twinkle-twinkle-little-star/song.json"
+      ]
     }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "id": "twinkle-twinkle-little-star",
+  "title": "Twinkle, Twinkle, Little Star",
+  "description": "From six melody notes to E/A/D bass, gentle offbeat picking and an optional F-sharp bass.",
+  "cover": "cover.webp",
+  "lessons": [
+    {
+      "id": "level-2-twinkle-01-first-notes",
+      "title": "Twinkle, Twinkle, Little Star - First Melody Notes",
+      "description": "Find six melody notes on the G, B and high E strings, without a timer.",
+      "asset": "lessons/level-2-twinkle-01-first-notes.json"
+    },
+    {
+      "id": "level-2-twinkle-02-opening-phrase",
+      "title": "Twinkle, Twinkle, Little Star - The Opening Phrase",
+      "description": "Recognise the opening two bars; play, rest and repeat.",
+      "asset": "lessons/level-2-twinkle-02-opening-phrase.json"
+    },
+    {
+      "id": "level-2-twinkle-03-middle-and-ending",
+      "title": "Twinkle, Twinkle, Little Star - The Middle and the Ending",
+      "description": "Practise the ending and the middle before joining the tune.",
+      "asset": "lessons/level-2-twinkle-03-middle-and-ending.json"
+    },
+    {
+      "id": "level-2-twinkle-04-complete-melody",
+      "title": "Twinkle, Twinkle, Little Star - The Complete Melody",
+      "description": "Play the complete twelve-bar melody twice, without bass.",
+      "asset": "lessons/level-2-twinkle-04-complete-melody.json"
+    },
+    {
+      "id": "level-2-twinkle-05-e-bass",
+      "title": "Twinkle, Twinkle, Little Star - First Low E Bass",
+      "description": "Add G bass on low E fret 3 while keeping the familiar melody.",
+      "asset": "lessons/level-2-twinkle-05-e-bass.json"
+    },
+    {
+      "id": "level-2-twinkle-06-a-bass",
+      "title": "Twinkle, Twinkle, Little Star - Adding A-String Bass",
+      "description": "Keep G bass and add C bass on A-string fret 3.",
+      "asset": "lessons/level-2-twinkle-06-a-bass.json"
+    },
+    {
+      "id": "level-2-twinkle-07-d-bass",
+      "title": "Twinkle, Twinkle, Little Star - Adding D-String Bass",
+      "description": "Add open D bass; choose between three bass strings.",
+      "asset": "lessons/level-2-twinkle-07-d-bass.json"
+    },
+    {
+      "id": "level-2-twinkle-08-filling-the-gaps",
+      "title": "Twinkle, Twinkle, Little Star - Filling the Gaps",
+      "description": "Practise gentle offbeat plucks over G, C and D.",
+      "asset": "lessons/level-2-twinkle-08-filling-the-gaps.json"
+    },
+    {
+      "id": "level-2-twinkle-09-complete-fingerstyle",
+      "title": "Twinkle, Twinkle, Little Star - The Complete Fingerstyle Tune",
+      "description": "Join melody, G/C/D bass and light offbeat plucks.",
+      "asset": "lessons/level-2-twinkle-09-complete-fingerstyle.json"
+    },
+    {
+      "id": "level-2-twinkle-10-f-sharp-bass",
+      "title": "Twinkle, Twinkle, Little Star - Optional: The F-Sharp Bass",
+      "description": "Optional: replace the D bass with F-sharp on low E fret 2.",
+      "asset": "lessons/level-2-twinkle-10-f-sharp-bass.json"
+    }
+  ]
+}

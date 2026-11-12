@@ -5,3 +5,5 @@
 - Edit catalog and note JSON together; retain two explicit empty count-in bars and independent learner/backing parts.
 - Validate through the parent Android project's JDK17 unit/lint/build checks. Push content changes before updating the parent submodule pointer.
 - Keep keys, credentials, recordings, device evidence and legacy test songs out of this public repository. Never add commit co-authors automatically.
+
+- Organized catalog v2: read LIBRARY.md before adding content. catalog.json orders compositions within levels; each song.json orders lessons and supplies one optional cover. Preserve all IDs. Missing artwork uses default-cover.webp, then the bundled app fallback. V2 requires an updated app.

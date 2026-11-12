@@ -1,0 +1,38 @@
+{
+  "id": "mary-had-a-little-lamb",
+  "title": "Mary Had a Little Lamb",
+  "description": "From the melody to E- and A-string bass, D-string tones and complete fingerstyle.",
+  "cover": "cover.webp",
+  "lessons": [
+    {
+      "id": "level-2-mary-01-melody",
+      "title": "Mary Had a Little Lamb - The Melody",
+      "description": "Play the melody on the G and B strings.",
+      "asset": "lessons/level-2-mary-01-melody.json"
+    },
+    {
+      "id": "level-2-mary-02-e-bass",
+      "title": "Mary Had a Little Lamb - First E Bass",
+      "description": "Keep the same melody.",
+      "asset": "lessons/level-2-mary-02-e-bass.json"
+    },
+    {
+      "id": "level-2-mary-03-a-bass",
+      "title": "Mary Had a Little Lamb - Adding A-String Bass",
+      "description": "Keep the E-string bass.",
+      "asset": "lessons/level-2-mary-03-a-bass.json"
+    },
+    {
+      "id": "level-2-mary-04-d-tones",
+      "title": "Mary Had a Little Lamb - Adding D-String Tones",
+      "description": "Add the written D-string tones: open for G, fret 2 for Em, fret 4 for D.",
+      "asset": "lessons/level-2-mary-04-d-tones.json"
+    },
+    {
+      "id": "level-2-mary-05-complete-fingerstyle",
+      "title": "Mary Had a Little Lamb - The Complete Fingerstyle Tune",
+      "description": "Play the full melody with the written G, Em and D chord voices.",
+      "asset": "lessons/level-2-mary-05-complete-fingerstyle.json"
+    }
+  ]
+}
