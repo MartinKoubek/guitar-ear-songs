@@ -3,7 +3,7 @@
   "title": "Twinkle, Twinkle, Little Star - Adding A-String Bass",
   "bpm": 45,
   "beatsPerMeasure": 4,
-  "showChordNames": true,
+  "showChordNames": false,
   "lesson": {
     "instructions": "First practise C bass alone on A fret 3, then the G-C change twice. Keep G bass on low E fret 3; D bars are still melody only. After the preparation, play the complete twelve-bar tune twice, with one full rest bar between the performances. The first full tune starts at bar 10, including the two count-in bars. Vertically aligned TAB numbers play together. Play only written notes; unclear voices may remain yellow.",
     "selfPaced": false,
@@ -1040,10 +1040,5 @@
         "notes": []
       }
     ]
-  },
-  "chordFingerings": {
-    "G": "Low E fret 3 (finger 2), plus the written melody; use finger 3 for B-string fret 3.",
-    "C": "A fret 3 (finger 3), plus the written melody; B fret 1 uses finger 1.",
-    "D": "Melody only: no D bass yet."
   }
 }

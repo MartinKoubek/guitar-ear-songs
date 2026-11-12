@@ -3,14 +3,9 @@
   "title": "Mary Had a Little Lamb - The Melody",
   "bpm": 55,
   "beatsPerMeasure": 4,
-  "showChordNames": true,
-  "chordFingerings": {
-    "G": "Melody on G and B strings only. No full chord grip yet.",
-    "Em": "Melody on G and B strings only. No full chord grip yet.",
-    "D": "Melody on G and B strings only. No full chord grip yet."
-  },
+  "showChordNames": false,
   "lesson": {
-    "instructions": "Play the melody on the G and B strings. G string: frets 0 and 2. B string: frets 0 and 3. Use your index and middle picking fingers. Chord names show the harmony; play only written TAB notes. First practise the opening two bars twice, with a rest bar after each. Then play the complete eight-bar melody twice. Start slowly and adjust the tempo when needed.",
+    "instructions": "Play the melody on the G and B strings. G string: frets 0 and 2. B string: frets 0 and 3. Use your index and middle picking fingers. Play only the written TAB notes. First practise the opening two bars twice, with a rest bar after each. Then play the complete eight-bar melody twice. Start slowly and adjust the tempo when needed.",
     "selfPaced": false,
     "defaultSound": "beat",
     "previewMelody": true

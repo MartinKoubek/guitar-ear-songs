@@ -3,7 +3,7 @@
   "title": "Twinkle, Twinkle, Little Star - First Low E Bass",
   "bpm": 45,
   "beatsPerMeasure": 4,
-  "showChordNames": true,
+  "showChordNames": false,
   "lesson": {
     "instructions": "First practise G bass alone on low E fret 3, then the opening G-C phrase twice. Add bass only to the G bars; C and D are melody only. After the preparation, play the complete twelve-bar tune twice, with one full rest bar between the performances. The first full tune starts at bar 10, including the two count-in bars. Vertically aligned TAB numbers play together. Play only written notes; unclear voices may remain yellow.",
     "selfPaced": false,
@@ -956,10 +956,5 @@
         "notes": []
       }
     ]
-  },
-  "chordFingerings": {
-    "G": "Low E fret 3 (finger 2), plus the written melody; use finger 3 for B-string fret 3.",
-    "C": "Melody only: no C bass yet.",
-    "D": "Melody only: no D bass yet."
   }
 }

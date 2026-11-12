@@ -3,7 +3,7 @@
   "title": "Twinkle, Twinkle, Little Star - Adding D-String Bass",
   "bpm": 45,
   "beatsPerMeasure": 4,
-  "showChordNames": true,
+  "showChordNames": false,
   "lesson": {
     "instructions": "First practise open D bass, then the D-G change twice. Keep the same melody and add the three bass positions only where written: G on low E fret 3, C on A fret 3 and D open. After the preparation, play the complete twelve-bar tune twice, with one full rest bar between the performances. The first full tune starts at bar 10, including the two count-in bars. Vertically aligned TAB numbers play together. Play only written notes; unclear voices may remain yellow.",
     "selfPaced": false,
@@ -1064,10 +1064,5 @@
         "notes": []
       }
     ]
-  },
-  "chordFingerings": {
-    "G": "Low E fret 3 (finger 2), plus the written melody; use finger 3 for B-string fret 3.",
-    "C": "A fret 3 (finger 3), plus the written melody; B fret 1 uses finger 1.",
-    "D": "D open, plus the written melody. For A on G fret 2 use finger 1. Play only the written notes."
   }
 }

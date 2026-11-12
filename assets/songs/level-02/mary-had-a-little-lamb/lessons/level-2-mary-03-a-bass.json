@@ -3,12 +3,7 @@
   "title": "Mary Had a Little Lamb - Adding A-String Bass",
   "bpm": 45,
   "beatsPerMeasure": 4,
-  "showChordNames": true,
-  "chordFingerings": {
-    "G": "Low E fret 3 (finger 3), plus the written melody.",
-    "Em": "Low E open, plus the written melody.",
-    "D": "A fret 5 (finger 4), G fret 2 (finger 1)."
-  },
+  "showChordNames": false,
   "lesson": {
     "instructions": "Keep the E-string bass. Add the D bass on A-string fret 5 in D bars. Prepare it before plucking. The melody and rhythm stay the same. First practise the opening two bars twice, with a rest bar after each. Then play the complete eight-bar melody twice. Start slowly and adjust the tempo when needed.",
     "selfPaced": false,

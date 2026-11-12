@@ -3,12 +3,7 @@
   "title": "Mary Had a Little Lamb - First E Bass",
   "bpm": 45,
   "beatsPerMeasure": 4,
-  "showChordNames": true,
-  "chordFingerings": {
-    "G": "Low E fret 3 (finger 3), plus the written melody.",
-    "Em": "Low E open, plus the written melody.",
-    "D": "Melody only."
-  },
+  "showChordNames": false,
   "lesson": {
     "instructions": "Keep the same melody. Add your thumb on the low E string at written chord starts: fret 3 for G and open for Em. D bars remain melody only. Vertically aligned notes sound together. First practise the opening two bars twice, with a rest bar after each. Then play the complete eight-bar melody twice. Start slowly and adjust the tempo when needed.",
     "selfPaced": false,
