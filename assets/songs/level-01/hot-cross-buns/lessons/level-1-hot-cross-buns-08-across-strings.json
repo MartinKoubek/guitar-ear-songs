@@ -521,5 +521,260 @@
         ]
       }
     ]
+  },
+  "lyrics": {
+    "language": "en",
+    "lines": [
+      {
+        "measure": 6,
+        "beat": 0,
+        "duration": 4,
+        "words": [
+          {
+            "text": "Hot",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "cross",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "buns!",
+            "beat": 2,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 8,
+        "beat": 0,
+        "duration": 4,
+        "words": [
+          {
+            "text": "Hot",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "cross",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "buns!",
+            "beat": 2,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 10,
+        "beat": 0,
+        "duration": 4,
+        "words": [
+          {
+            "text": "Hot",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "cross",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "buns!",
+            "beat": 2,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 11,
+        "beat": 0,
+        "duration": 4,
+        "words": [
+          {
+            "text": "Hot",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "cross",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "buns!",
+            "beat": 2,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 12,
+        "beat": 0,
+        "duration": 4,
+        "words": [
+          {
+            "text": "One",
+            "beat": 0,
+            "duration": 0.5
+          },
+          {
+            "text": "a",
+            "beat": 0.5,
+            "duration": 0.5
+          },
+          {
+            "text": "penny,",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "two",
+            "beat": 2,
+            "duration": 0.5
+          },
+          {
+            "text": "a",
+            "beat": 2.5,
+            "duration": 0.5
+          },
+          {
+            "text": "penny",
+            "beat": 3,
+            "duration": 1
+          }
+        ]
+      },
+      {
+        "measure": 13,
+        "beat": 0,
+        "duration": 4,
+        "words": [
+          {
+            "text": "Hot",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "cross",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "buns!",
+            "beat": 2,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 14,
+        "beat": 0,
+        "duration": 4,
+        "words": [
+          {
+            "text": "Hot",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "cross",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "buns!",
+            "beat": 2,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 15,
+        "beat": 0,
+        "duration": 4,
+        "words": [
+          {
+            "text": "Hot",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "cross",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "buns!",
+            "beat": 2,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 16,
+        "beat": 0,
+        "duration": 4,
+        "words": [
+          {
+            "text": "One",
+            "beat": 0,
+            "duration": 0.5
+          },
+          {
+            "text": "a",
+            "beat": 0.5,
+            "duration": 0.5
+          },
+          {
+            "text": "penny,",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "two",
+            "beat": 2,
+            "duration": 0.5
+          },
+          {
+            "text": "a",
+            "beat": 2.5,
+            "duration": 0.5
+          },
+          {
+            "text": "penny",
+            "beat": 3,
+            "duration": 1
+          }
+        ]
+      },
+      {
+        "measure": 17,
+        "beat": 0,
+        "duration": 4,
+        "words": [
+          {
+            "text": "Hot",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "cross",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "buns!",
+            "beat": 2,
+            "duration": 2
+          }
+        ]
+      }
+    ]
   }
 }

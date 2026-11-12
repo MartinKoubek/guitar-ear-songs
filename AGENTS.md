@@ -9,3 +9,5 @@
 - Organized catalog v2: read LIBRARY.md before adding content. catalog.json orders compositions within levels; each song.json orders lessons and supplies one optional cover. Preserve all IDs. Missing artwork uses default-cover.webp, then the bundled app fallback. V2 requires an updated app.
 
 - Quiet Morning: eight original Level1 picking lessons after Hot Cross Buns, 3/4 at40BPM, only frets0-3. See QUIET-MORNING.md. No cover field uses the shared default. Amazing Grace adds four follow-up Level1 accompaniment lessons (AMAZING-GRACE.md); total35 lessons. Existing23 lesson files remain unchanged.
+
+- Optional `lyrics` is documented in FORMAT.md. Timed Hot Cross Buns lessons03-08 have traditional words aligned to actual melodic phrases; lessons01-02 remain rhythm/target preparation without lyrics. Preserve note/backing data when editing text. Updated APK required for display; older parsers ignore the optional field.

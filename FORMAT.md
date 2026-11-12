@@ -36,3 +36,23 @@ Optional `chordFingerings` is a map of chord name to nonblank English actual par
 Expanded chord listening uses 8192-sample windows, a 32768-point padded FFT and a 4096-sample hop (about 93ms), skipping redundant monophonic analysis. V1 keeps its original 2048-sample hop. V2 polyphonic practice is capped at 90BPM for quarter notes / 50BPM with eighths, while preserving authored defaults. Three stable frames plus the 200ms analysis-tail guard still fit the written note windows.
 
 Twinkle uses schema2 unchanged. The final picking texture explicitly writes melody plucks as eighth notes on integer beats and lighter open-string fills on half beats; original half-note phrase endings are preserved. All groups have equal duration and no staggered overlap. The D/F# bonus changes D downbeat bass to F#2 while retaining open-D fills. Stable group: twinkle-twinkle-little-star, Level2, ten lessons. Main backing is silent and previews demonstrate written notes.
+
+## Optional timed lyrics (score schema1 and2)
+
+A lyric-capable APK accepts root `lyrics: {"language":"en","lines":[...]}`. `language` is optional; missing/null lyrics hides all lyric UI. Each line has 1-based `measure` including the two empty intro bars, local `beat`, positive `duration` in quarter-note beats, and ordered `words`. Each word has nonblank `text`, a `beat` relative to its line start, and positive `duration`. Example:
+
+```json
+"lyrics": {
+  "language": "en",
+  "lines": [{
+    "measure": 3, "beat": 0, "duration": 4,
+    "words": [
+      {"text":"Hot", "beat":0, "duration":1},
+      {"text":"cross", "beat":1, "duration":1},
+      {"text":"buns!", "beat":2, "duration":2}
+    ]
+  }]
+}
+```
+
+Lyrics start no earlier than measure3. Lines may span bars but must fit the song; words must fit their line. All times are finite JSON numbers, ordered without overlaps; gaps are allowed. Include punctuation in words. One token may cover several notes; repeat lines explicitly at the actual repeated times. Tokens join with one space. Limits: 512 lines, 64 words/line,128 characters/token,512 characters/line,64,000 text characters total; no blank/control-character tokens. Older APKs ignore this optional field. Do not change notes/backing/IDs to add lyrics. Only use text that may be distributed with the library. The current timed full player displays/highlights it; static practice, untimed targets, synthesized audio and PDF do not render/sing it.
