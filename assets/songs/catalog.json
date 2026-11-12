@@ -8,7 +8,9 @@
       "title": "First Notes & Rhythm",
       "description": "Open strings, your first fretted notes and a steady rhythm.",
       "songs": [
-        "level-01/hot-cross-buns/song.json"
+        "level-01/hot-cross-buns/song.json",
+        "level-01/quiet-morning/song.json",
+        "level-01/amazing-grace/song.json"
       ]
     },
     {

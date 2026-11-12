@@ -1,0 +1,277 @@
+{
+  "schemaVersion": 2,
+  "title": "Quiet Morning - Your First D Shape",
+  "bpm": 40,
+  "beatsPerMeasure": 3,
+  "showChordNames": true,
+  "lesson": {
+    "instructions": "Use i (index) on G, m (middle) on B and a (ring) on high E. Count 1, 2-and, 3-and: hold the first pluck for one beat, then play four eighth notes. Use p (thumb) for the written bass. Pluck bass and G together on beat 1, then B, high E, B, G. Keep the same right-hand pattern. Open D: index on G fret 2, middle on high E fret 2, ring on B fret 3; D open. Do not play A or low E. Practise four times with a rest bar after each attempt. Place the fingers gently before starting.",
+    "selfPaced": false,
+    "defaultSound": "beat",
+    "previewMelody": true
+  },
+  "measures": [
+    {
+      "metronome": true,
+      "notes": []
+    },
+    {
+      "metronome": true,
+      "notes": []
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 3,
+          "fret": 0
+        },
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 2,
+          "fret": 2
+        },
+        {
+          "beat": 1,
+          "duration": 0.5,
+          "string": 1,
+          "fret": 3
+        },
+        {
+          "beat": 1.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2,
+          "duration": 0.5,
+          "string": 1,
+          "fret": 3
+        },
+        {
+          "beat": 2.5,
+          "duration": 0.5,
+          "string": 2,
+          "fret": 2
+        }
+      ],
+      "chord": "D"
+    },
+    {
+      "notes": [],
+      "rests": [
+        {
+          "beat": 0,
+          "duration": 2
+        },
+        {
+          "beat": 2,
+          "duration": 1
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 3,
+          "fret": 0
+        },
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 2,
+          "fret": 2
+        },
+        {
+          "beat": 1,
+          "duration": 0.5,
+          "string": 1,
+          "fret": 3
+        },
+        {
+          "beat": 1.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2,
+          "duration": 0.5,
+          "string": 1,
+          "fret": 3
+        },
+        {
+          "beat": 2.5,
+          "duration": 0.5,
+          "string": 2,
+          "fret": 2
+        }
+      ],
+      "chord": "D"
+    },
+    {
+      "notes": [],
+      "rests": [
+        {
+          "beat": 0,
+          "duration": 2
+        },
+        {
+          "beat": 2,
+          "duration": 1
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 3,
+          "fret": 0
+        },
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 2,
+          "fret": 2
+        },
+        {
+          "beat": 1,
+          "duration": 0.5,
+          "string": 1,
+          "fret": 3
+        },
+        {
+          "beat": 1.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2,
+          "duration": 0.5,
+          "string": 1,
+          "fret": 3
+        },
+        {
+          "beat": 2.5,
+          "duration": 0.5,
+          "string": 2,
+          "fret": 2
+        }
+      ],
+      "chord": "D"
+    },
+    {
+      "notes": [],
+      "rests": [
+        {
+          "beat": 0,
+          "duration": 2
+        },
+        {
+          "beat": 2,
+          "duration": 1
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 3,
+          "fret": 0
+        },
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 2,
+          "fret": 2
+        },
+        {
+          "beat": 1,
+          "duration": 0.5,
+          "string": 1,
+          "fret": 3
+        },
+        {
+          "beat": 1.5,
+          "duration": 0.5,
+          "string": 0,
+          "fret": 2
+        },
+        {
+          "beat": 2,
+          "duration": 0.5,
+          "string": 1,
+          "fret": 3
+        },
+        {
+          "beat": 2.5,
+          "duration": 0.5,
+          "string": 2,
+          "fret": 2
+        }
+      ],
+      "chord": "D"
+    },
+    {
+      "notes": [],
+      "rests": [
+        {
+          "beat": 0,
+          "duration": 2
+        },
+        {
+          "beat": 2,
+          "duration": 1
+        }
+      ]
+    }
+  ],
+  "backing": {
+    "volume": 1.0,
+    "measures": [
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      }
+    ]
+  },
+  "chordFingerings": {
+    "D": "Open D: index on G fret 2, middle on high E fret 2, ring on B fret 3; D open. Do not play A or low E."
+  }
+}

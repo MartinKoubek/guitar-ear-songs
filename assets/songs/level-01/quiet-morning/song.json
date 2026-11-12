@@ -1,0 +1,55 @@
+{
+  "id": "quiet-morning",
+  "title": "Quiet Morning",
+  "description": "A gentle original picking study: right-hand pattern, thumb, then easy C, G and D shapes.",
+  "lessons": [
+    {
+      "id": "level-1-quiet-morning-01-right-hand",
+      "title": "Quiet Morning - The Picking Pattern",
+      "description": "Learn i-m-a-m-i on open G, B and high E.",
+      "asset": "lessons/level-1-quiet-morning-01-right-hand.json"
+    },
+    {
+      "id": "level-1-quiet-morning-02-add-the-thumb",
+      "title": "Quiet Morning - Add the Thumb",
+      "description": "Add open low E together with the first G-string note.",
+      "asset": "lessons/level-1-quiet-morning-02-add-the-thumb.json"
+    },
+    {
+      "id": "level-1-quiet-morning-03-first-c-shape",
+      "title": "Quiet Morning - Your First C Shape",
+      "description": "Hold a two-finger partial C while the right hand repeats.",
+      "asset": "lessons/level-1-quiet-morning-03-first-c-shape.json"
+    },
+    {
+      "id": "level-1-quiet-morning-04-first-g-shape",
+      "title": "Quiet Morning - Your First G Shape",
+      "description": "Prepare a two-finger partial G without changing the picking pattern.",
+      "asset": "lessons/level-1-quiet-morning-04-first-g-shape.json"
+    },
+    {
+      "id": "level-1-quiet-morning-05-c-to-g",
+      "title": "Quiet Morning - Move from C to G",
+      "description": "Play C twice, then G twice, keeping the right hand steady.",
+      "asset": "lessons/level-1-quiet-morning-05-c-to-g.json"
+    },
+    {
+      "id": "level-1-quiet-morning-06-first-d-shape",
+      "title": "Quiet Morning - Your First D Shape",
+      "description": "Learn open D using only frets 2 and 3.",
+      "asset": "lessons/level-1-quiet-morning-06-first-d-shape.json"
+    },
+    {
+      "id": "level-1-quiet-morning-07-g-to-d",
+      "title": "Quiet Morning - Move from G to D",
+      "description": "Keep each shape for two bars before changing.",
+      "asset": "lessons/level-1-quiet-morning-07-g-to-d.json"
+    },
+    {
+      "id": "level-1-quiet-morning-08-complete-piece",
+      "title": "Quiet Morning - Quiet Morning",
+      "description": "Join C, G and D into a gentle repeating guitar piece.",
+      "asset": "lessons/level-1-quiet-morning-08-complete-piece.json"
+    }
+  ]
+}

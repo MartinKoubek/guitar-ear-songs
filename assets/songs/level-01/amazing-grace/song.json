@@ -1,0 +1,31 @@
+{
+  "id": "amazing-grace",
+  "title": "Amazing Grace",
+  "description": "A simple three-chord picking accompaniment in 3/4. Learn the pattern, two chord changes, then the whole song.",
+  "lessons": [
+    {
+      "id": "level-1-amazing-grace-01-picking-on-g",
+      "title": "Amazing Grace - The Pattern on G",
+      "description": "Learn six gentle plucks on one easy G shape.",
+      "asset": "lessons/level-1-amazing-grace-01-picking-on-g.json"
+    },
+    {
+      "id": "level-1-amazing-grace-02-g-and-c",
+      "title": "Amazing Grace - The G and C Phrase",
+      "description": "Add C and return to G without changing the right-hand pattern.",
+      "asset": "lessons/level-1-amazing-grace-02-g-and-c.json"
+    },
+    {
+      "id": "level-1-amazing-grace-03-g-and-d",
+      "title": "Amazing Grace - The G and D Phrase",
+      "description": "Prepare open D, then practise the second phrase.",
+      "asset": "lessons/level-1-amazing-grace-03-g-and-d.json"
+    },
+    {
+      "id": "level-1-amazing-grace-04-complete-accompaniment",
+      "title": "Amazing Grace - The Complete Accompaniment",
+      "description": "Play the full sixteen-bar accompaniment with G, C and D.",
+      "asset": "lessons/level-1-amazing-grace-04-complete-accompaniment.json"
+    }
+  ]
+}

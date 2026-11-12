@@ -7,3 +7,5 @@
 - Keep keys, credentials, recordings, device evidence and legacy test songs out of this public repository. Never add commit co-authors automatically.
 
 - Organized catalog v2: read LIBRARY.md before adding content. catalog.json orders compositions within levels; each song.json orders lessons and supplies one optional cover. Preserve all IDs. Missing artwork uses default-cover.webp, then the bundled app fallback. V2 requires an updated app.
+
+- Quiet Morning: eight original Level1 picking lessons after Hot Cross Buns, 3/4 at40BPM, only frets0-3. See QUIET-MORNING.md. No cover field uses the shared default. Amazing Grace adds four follow-up Level1 accompaniment lessons (AMAZING-GRACE.md); total35 lessons. Existing23 lesson files remain unchanged.
