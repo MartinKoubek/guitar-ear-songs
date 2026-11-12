@@ -10,4 +10,5 @@
 
 - Quiet Morning: eight original Level1 picking lessons after Hot Cross Buns, 3/4 at40BPM, only frets0-3. See QUIET-MORNING.md. No cover field uses the shared default. Amazing Grace adds four follow-up Level1 accompaniment lessons (AMAZING-GRACE.md); total35 lessons. Existing23 lesson files remain unchanged.
 
-- Optional `lyrics` is documented in FORMAT.md. Timed Hot Cross Buns lessons03-08 have traditional words aligned to actual melodic phrases; lessons01-02 remain rhythm/target preparation without lyrics. Preserve note/backing data when editing text. Updated APK required for display; older parsers ignore the optional field.
+
+- Optional `lyrics` is documented in FORMAT.md; LYRICS.md maps all35 lessons. HCB03-08, all Mary lessons and Twinkle02-10 have timed words (20 lessons,198 line occurrences). Preserve Mary's inside-bar Its pickup and sung word durations across Twinkle fills. Quiet Morning stays instrumental; Amazing Grace needs a verified vocal pickup/word map before adding timed lyrics. Preserve note/backing data; lyric display requires the updated APK and older parsers ignore the field.

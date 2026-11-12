@@ -301,5 +301,118 @@
         "notes": []
       }
     ]
+  },
+  "lyrics": {
+    "language": "en",
+    "lines": [
+      {
+        "measure": 3,
+        "beat": 0,
+        "duration": 8,
+        "words": [
+          {
+            "text": "Twinkle,",
+            "beat": 0,
+            "duration": 2
+          },
+          {
+            "text": "twinkle,",
+            "beat": 2,
+            "duration": 2
+          },
+          {
+            "text": "little",
+            "beat": 4,
+            "duration": 2
+          },
+          {
+            "text": "star,",
+            "beat": 6,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 6,
+        "beat": 0,
+        "duration": 8,
+        "words": [
+          {
+            "text": "Twinkle,",
+            "beat": 0,
+            "duration": 2
+          },
+          {
+            "text": "twinkle,",
+            "beat": 2,
+            "duration": 2
+          },
+          {
+            "text": "little",
+            "beat": 4,
+            "duration": 2
+          },
+          {
+            "text": "star,",
+            "beat": 6,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 9,
+        "beat": 0,
+        "duration": 8,
+        "words": [
+          {
+            "text": "Twinkle,",
+            "beat": 0,
+            "duration": 2
+          },
+          {
+            "text": "twinkle,",
+            "beat": 2,
+            "duration": 2
+          },
+          {
+            "text": "little",
+            "beat": 4,
+            "duration": 2
+          },
+          {
+            "text": "star,",
+            "beat": 6,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 12,
+        "beat": 0,
+        "duration": 8,
+        "words": [
+          {
+            "text": "Twinkle,",
+            "beat": 0,
+            "duration": 2
+          },
+          {
+            "text": "twinkle,",
+            "beat": 2,
+            "duration": 2
+          },
+          {
+            "text": "little",
+            "beat": 4,
+            "duration": 2
+          },
+          {
+            "text": "star,",
+            "beat": 6,
+            "duration": 2
+          }
+        ]
+      }
+    ]
   }
 }

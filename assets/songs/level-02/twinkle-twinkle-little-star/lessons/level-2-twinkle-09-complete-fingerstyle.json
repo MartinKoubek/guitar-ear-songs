@@ -1436,5 +1436,453 @@
     "G": "Low E fret 3 (finger 2), plus the written melody; use finger 3 for B-string fret 3. Offbeats use open D.",
     "C": "A fret 3 (finger 3), plus the written melody; B fret 1 uses finger 1. Offbeats use open G.",
     "D": "D open, plus the written melody. For A on G fret 2 use finger 1. Play only the written notes. Offbeats use open D."
+  },
+  "lyrics": {
+    "language": "en",
+    "lines": [
+      {
+        "measure": 3,
+        "beat": 0,
+        "duration": 4,
+        "words": [
+          {
+            "text": "world",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "so",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "high,",
+            "beat": 2,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 4,
+        "beat": 0,
+        "duration": 4,
+        "words": [
+          {
+            "text": "Twinkle,",
+            "beat": 0,
+            "duration": 2
+          },
+          {
+            "text": "twinkle,",
+            "beat": 2,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 6,
+        "beat": 0,
+        "duration": 8,
+        "words": [
+          {
+            "text": "Twinkle,",
+            "beat": 0,
+            "duration": 2
+          },
+          {
+            "text": "twinkle,",
+            "beat": 2,
+            "duration": 2
+          },
+          {
+            "text": "little",
+            "beat": 4,
+            "duration": 2
+          },
+          {
+            "text": "star,",
+            "beat": 6,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 8,
+        "beat": 0,
+        "duration": 8,
+        "words": [
+          {
+            "text": "How",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "I",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "wonder",
+            "beat": 2,
+            "duration": 2
+          },
+          {
+            "text": "what",
+            "beat": 4,
+            "duration": 1
+          },
+          {
+            "text": "you",
+            "beat": 5,
+            "duration": 1
+          },
+          {
+            "text": "are.",
+            "beat": 6,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 10,
+        "beat": 0,
+        "duration": 8,
+        "words": [
+          {
+            "text": "Up",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "above",
+            "beat": 1,
+            "duration": 2
+          },
+          {
+            "text": "the",
+            "beat": 3,
+            "duration": 1
+          },
+          {
+            "text": "world",
+            "beat": 4,
+            "duration": 1
+          },
+          {
+            "text": "so",
+            "beat": 5,
+            "duration": 1
+          },
+          {
+            "text": "high,",
+            "beat": 6,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 12,
+        "beat": 0,
+        "duration": 8,
+        "words": [
+          {
+            "text": "Like",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "a",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "diamond",
+            "beat": 2,
+            "duration": 2
+          },
+          {
+            "text": "in",
+            "beat": 4,
+            "duration": 1
+          },
+          {
+            "text": "the",
+            "beat": 5,
+            "duration": 1
+          },
+          {
+            "text": "sky.",
+            "beat": 6,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 14,
+        "beat": 0,
+        "duration": 8,
+        "words": [
+          {
+            "text": "Twinkle,",
+            "beat": 0,
+            "duration": 2
+          },
+          {
+            "text": "twinkle,",
+            "beat": 2,
+            "duration": 2
+          },
+          {
+            "text": "little",
+            "beat": 4,
+            "duration": 2
+          },
+          {
+            "text": "star,",
+            "beat": 6,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 16,
+        "beat": 0,
+        "duration": 8,
+        "words": [
+          {
+            "text": "How",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "I",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "wonder",
+            "beat": 2,
+            "duration": 2
+          },
+          {
+            "text": "what",
+            "beat": 4,
+            "duration": 1
+          },
+          {
+            "text": "you",
+            "beat": 5,
+            "duration": 1
+          },
+          {
+            "text": "are.",
+            "beat": 6,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 19,
+        "beat": 0,
+        "duration": 8,
+        "words": [
+          {
+            "text": "Twinkle,",
+            "beat": 0,
+            "duration": 2
+          },
+          {
+            "text": "twinkle,",
+            "beat": 2,
+            "duration": 2
+          },
+          {
+            "text": "little",
+            "beat": 4,
+            "duration": 2
+          },
+          {
+            "text": "star,",
+            "beat": 6,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 21,
+        "beat": 0,
+        "duration": 8,
+        "words": [
+          {
+            "text": "How",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "I",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "wonder",
+            "beat": 2,
+            "duration": 2
+          },
+          {
+            "text": "what",
+            "beat": 4,
+            "duration": 1
+          },
+          {
+            "text": "you",
+            "beat": 5,
+            "duration": 1
+          },
+          {
+            "text": "are.",
+            "beat": 6,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 23,
+        "beat": 0,
+        "duration": 8,
+        "words": [
+          {
+            "text": "Up",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "above",
+            "beat": 1,
+            "duration": 2
+          },
+          {
+            "text": "the",
+            "beat": 3,
+            "duration": 1
+          },
+          {
+            "text": "world",
+            "beat": 4,
+            "duration": 1
+          },
+          {
+            "text": "so",
+            "beat": 5,
+            "duration": 1
+          },
+          {
+            "text": "high,",
+            "beat": 6,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 25,
+        "beat": 0,
+        "duration": 8,
+        "words": [
+          {
+            "text": "Like",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "a",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "diamond",
+            "beat": 2,
+            "duration": 2
+          },
+          {
+            "text": "in",
+            "beat": 4,
+            "duration": 1
+          },
+          {
+            "text": "the",
+            "beat": 5,
+            "duration": 1
+          },
+          {
+            "text": "sky.",
+            "beat": 6,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 27,
+        "beat": 0,
+        "duration": 8,
+        "words": [
+          {
+            "text": "Twinkle,",
+            "beat": 0,
+            "duration": 2
+          },
+          {
+            "text": "twinkle,",
+            "beat": 2,
+            "duration": 2
+          },
+          {
+            "text": "little",
+            "beat": 4,
+            "duration": 2
+          },
+          {
+            "text": "star,",
+            "beat": 6,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 29,
+        "beat": 0,
+        "duration": 8,
+        "words": [
+          {
+            "text": "How",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "I",
+            "beat": 1,
+            "duration": 1
+          },
+          {
+            "text": "wonder",
+            "beat": 2,
+            "duration": 2
+          },
+          {
+            "text": "what",
+            "beat": 4,
+            "duration": 1
+          },
+          {
+            "text": "you",
+            "beat": 5,
+            "duration": 1
+          },
+          {
+            "text": "are.",
+            "beat": 6,
+            "duration": 2
+          }
+        ]
+      }
+    ]
   }
 }
