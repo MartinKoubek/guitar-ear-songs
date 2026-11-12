@@ -10,7 +10,7 @@
     "D": "Open D: index on G fret 2, middle on high E fret 2, ring on B fret 3; D open. Do not play A or low E."
   },
   "lesson": {
-    "instructions": "Count 1-and-2-and-3-and. Pluck bass, G, B, G, high E, B as six even eighth notes: p-i-m-i-a-m. Thumb p plays the bass; i plays G, m plays B and a plays high E. Each note is separate; do not pinch two strings together. Play the full sixteen-bar accompaniment, rest for one bar, then repeat. Keep the picking even during chord changes. This is accompaniment for singing or humming, not the sung melody played on the guitar. First learn the guitar part alone; add singing later. Microphone feedback is intended for the guitar and may be affected by singing.",
+    "instructions": "Count 1-and-2-and-3-and. Pluck bass, G, B, G, high E, B as six even eighth notes: p-i-m-i-a-m. Thumb p plays the bass; i plays G, m plays B and a plays high E. Each note is separate; do not pinch two strings together. After the two count-in bars, keep the guitar silent for one pickup bar. If singing, start the first syllable of Amazing on beat 3 of that bar; start the guitar on the next downbeat. Play the full sixteen-bar accompaniment, rest for one bar, then repeat. Start Amazing again on beat 3 of that rest bar. Hold me and see across five beats; leave a breath after see. Keep the picking even during chord changes. This is accompaniment for singing or humming, not the sung melody played on the guitar. First learn the guitar part alone; add singing later. Microphone feedback is intended for the guitar and may be affected by singing.",
     "selfPaced": false,
     "defaultSound": "beat",
     "previewMelody": true
@@ -23,6 +23,19 @@
     {
       "metronome": true,
       "notes": []
+    },
+    {
+      "notes": [],
+      "rests": [
+        {
+          "beat": 0,
+          "duration": 2
+        },
+        {
+          "beat": 2,
+          "duration": 1
+        }
+      ]
     },
     {
       "chord": "G",
@@ -1473,6 +1486,330 @@
       },
       {
         "notes": []
+      },
+      {
+        "notes": []
+      }
+    ]
+  },
+  "lyrics": {
+    "language": "en",
+    "lines": [
+      {
+        "measure": 3,
+        "beat": 2,
+        "duration": 12,
+        "words": [
+          {
+            "text": "Amazing",
+            "beat": 0,
+            "duration": 4
+          },
+          {
+            "text": "grace,",
+            "beat": 4,
+            "duration": 2
+          },
+          {
+            "text": "how",
+            "beat": 6,
+            "duration": 1
+          },
+          {
+            "text": "sweet",
+            "beat": 7,
+            "duration": 2
+          },
+          {
+            "text": "the",
+            "beat": 9,
+            "duration": 1
+          },
+          {
+            "text": "sound,",
+            "beat": 10,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 7,
+        "beat": 2,
+        "duration": 12,
+        "words": [
+          {
+            "text": "That",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "saved",
+            "beat": 1,
+            "duration": 2
+          },
+          {
+            "text": "a",
+            "beat": 3,
+            "duration": 1
+          },
+          {
+            "text": "wretch",
+            "beat": 4,
+            "duration": 2
+          },
+          {
+            "text": "like",
+            "beat": 6,
+            "duration": 1
+          },
+          {
+            "text": "me!",
+            "beat": 7,
+            "duration": 5
+          }
+        ]
+      },
+      {
+        "measure": 11,
+        "beat": 2,
+        "duration": 12,
+        "words": [
+          {
+            "text": "I",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "once",
+            "beat": 1,
+            "duration": 2
+          },
+          {
+            "text": "was",
+            "beat": 3,
+            "duration": 1
+          },
+          {
+            "text": "lost,",
+            "beat": 4,
+            "duration": 2
+          },
+          {
+            "text": "but",
+            "beat": 6,
+            "duration": 1
+          },
+          {
+            "text": "now",
+            "beat": 7,
+            "duration": 2
+          },
+          {
+            "text": "am",
+            "beat": 9,
+            "duration": 1
+          },
+          {
+            "text": "found,",
+            "beat": 10,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 15,
+        "beat": 2,
+        "duration": 12,
+        "words": [
+          {
+            "text": "Was",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "blind,",
+            "beat": 1,
+            "duration": 2
+          },
+          {
+            "text": "but",
+            "beat": 3,
+            "duration": 1
+          },
+          {
+            "text": "now",
+            "beat": 4,
+            "duration": 2
+          },
+          {
+            "text": "I",
+            "beat": 6,
+            "duration": 1
+          },
+          {
+            "text": "see.",
+            "beat": 7,
+            "duration": 5
+          }
+        ]
+      },
+      {
+        "measure": 20,
+        "beat": 2,
+        "duration": 12,
+        "words": [
+          {
+            "text": "Amazing",
+            "beat": 0,
+            "duration": 4
+          },
+          {
+            "text": "grace,",
+            "beat": 4,
+            "duration": 2
+          },
+          {
+            "text": "how",
+            "beat": 6,
+            "duration": 1
+          },
+          {
+            "text": "sweet",
+            "beat": 7,
+            "duration": 2
+          },
+          {
+            "text": "the",
+            "beat": 9,
+            "duration": 1
+          },
+          {
+            "text": "sound,",
+            "beat": 10,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 24,
+        "beat": 2,
+        "duration": 12,
+        "words": [
+          {
+            "text": "That",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "saved",
+            "beat": 1,
+            "duration": 2
+          },
+          {
+            "text": "a",
+            "beat": 3,
+            "duration": 1
+          },
+          {
+            "text": "wretch",
+            "beat": 4,
+            "duration": 2
+          },
+          {
+            "text": "like",
+            "beat": 6,
+            "duration": 1
+          },
+          {
+            "text": "me!",
+            "beat": 7,
+            "duration": 5
+          }
+        ]
+      },
+      {
+        "measure": 28,
+        "beat": 2,
+        "duration": 12,
+        "words": [
+          {
+            "text": "I",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "once",
+            "beat": 1,
+            "duration": 2
+          },
+          {
+            "text": "was",
+            "beat": 3,
+            "duration": 1
+          },
+          {
+            "text": "lost,",
+            "beat": 4,
+            "duration": 2
+          },
+          {
+            "text": "but",
+            "beat": 6,
+            "duration": 1
+          },
+          {
+            "text": "now",
+            "beat": 7,
+            "duration": 2
+          },
+          {
+            "text": "am",
+            "beat": 9,
+            "duration": 1
+          },
+          {
+            "text": "found,",
+            "beat": 10,
+            "duration": 2
+          }
+        ]
+      },
+      {
+        "measure": 32,
+        "beat": 2,
+        "duration": 12,
+        "words": [
+          {
+            "text": "Was",
+            "beat": 0,
+            "duration": 1
+          },
+          {
+            "text": "blind,",
+            "beat": 1,
+            "duration": 2
+          },
+          {
+            "text": "but",
+            "beat": 3,
+            "duration": 1
+          },
+          {
+            "text": "now",
+            "beat": 4,
+            "duration": 2
+          },
+          {
+            "text": "I",
+            "beat": 6,
+            "duration": 1
+          },
+          {
+            "text": "see.",
+            "beat": 7,
+            "duration": 5
+          }
+        ]
       }
     ]
   }

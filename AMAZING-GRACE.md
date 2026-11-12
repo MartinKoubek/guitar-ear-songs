@@ -7,15 +7,15 @@ Place after Quiet Morning in Level1. Four lessons at48BPM in3/4. Two explicit co
 1. Pattern on G: two bars then a full rest bar, three attempts.
 2. G and C: C alone twice with rest bars, then G-G-C-G three times, with preparation rests.
 3. G and D: D alone twice with rest bars, then G-G-D-D three times, with preparation rests.
-4. Complete accompaniment: G-G-C-G / G-G-D-D / G-G-C-G / G-D-G-G, twice, with one rest bar between rounds and at the end.
+4. Complete accompaniment (one explicit guitar-rest pickup bar before round1): G-G-C-G / G-G-D-D / G-G-C-G / G-D-G-G, twice, with one rest bar between rounds and at the end.
 
 Partial G uses lowE3/highE3, G/B open; partial C uses A3/B1, G/e open. D uses D0/G2/B3/e2. Only frets0-3. No barre, stretch to fret4/5, or simultaneous learner notes. Chord names show actual held shapes in all four lessons. Scores explicitly leave main backing silent; previewMelody demonstrates the written guitar accompaniment. Existing automatic Practice Parts, tempo changes and microphone scoring need no app changes. No dedicated cover yet, so use the shared fallback.
 
-## Lyrics proposal, not implemented
+## Timed lyrics in the complete accompaniment
 
-Offer optional Show lyrics for the final full-song lesson only, default off. Show one current lyric line below the TAB plus an optional next line, not an extra modal. Bind lyrics to source measures and handle the vocal pickup explicitly; practice excerpts should show only lyrics actually in their range. Avoid pretending that chord names or an arbitrary text row provide syllable-level timing. Start with one verse after agreeing the exact text/version and timing. Repetition currently repeats the same accompaniment and could repeat that verse.
+Lesson04 includes John Newton's first verse twice, mapped to the sixteen-bar New Britain vocal tune. [Exact timing, source and rationale](LYRICS.md#amazing-grace). After the two empty count-in bars, a new fully notated guitar-rest pickup bar lets Amazing begin on beat3. The first guitar bar starts in source measure4. The existing rest bar between rounds supplies the second vocal pickup. The original sixteen guitar bars, their order and all192 notes remain unchanged; the lesson now has37 measures. Lessons01-03 remain instrumental preparations.
 
-Teach guitar alone first, singing later. The existing guitar microphone judge can hear the singer, so a future sing-along mode should make the assessment limitation clear or offer practice without grading. No lyrics field, toggle, vocal synthesis or singing assessment is shipped in this data-only change. No modern adapted lyrics were copied.
+The existing lyric strip follows the shared beat clock, so tempo changes preserve word timing. Amazing spans its pickup and remaining syllables; me and see sustain for five beats. There is no vocal synthesis or singing assessment. Learn guitar alone first; singing may affect microphone guitar feedback. Physical guitar-and-voice testing remains outstanding.
 
 ## Checks
 
