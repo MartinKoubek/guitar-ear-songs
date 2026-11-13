@@ -51,5 +51,6 @@
       "description": "Join C, G and D into a gentle repeating guitar piece.",
       "asset": "lessons/level-1-quiet-morning-08-complete-piece.json"
     }
-  ]
+  ],
+  "cover": "cover.webp"
 }

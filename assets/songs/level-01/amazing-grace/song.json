@@ -27,5 +27,6 @@
       "description": "Play the full sixteen-bar accompaniment with G, C and D.",
       "asset": "lessons/level-1-amazing-grace-04-complete-accompaniment.json"
     }
-  ]
+  ],
+  "cover": "cover.webp"
 }
