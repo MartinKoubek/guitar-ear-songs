@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "title": "Before You Play - Your First Fretted Note",
+  "bpm": 60,
+  "beatsPerMeasure": 4,
+  "showChordNames": false,
+  "lesson": {
+    "instructions": "Use only the thin high E string. First choose the open target (0) and pluck it. Then place your left index fingertip just behind fret 2, choose that target and pluck again. Keep your finger curved, your thumb comfortable behind the neck and use only enough pressure for a clear note. Return to the open target and try 0, 2, 0 at your own pace. The clip explains fingertips and curved fingers; you do not need to play the chords shown. Finish when you feel ready.",
+    "selfPaced": true,
+    "defaultSound": "none",
+    "previewMelody": true
+  },
+  "youtubeVideo": {
+    "url": "https://www.youtube.com/watch?v=MPHUnjjUmFg",
+    "startSeconds": 180,
+    "endSeconds": 233,
+    "author": "Tomas Michaud"
+  },
+  "measures": [
+    {
+      "metronome": true,
+      "notes": []
+    },
+    {
+      "metronome": true,
+      "notes": []
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1,
+          "string": 0,
+          "fret": 0
+        },
+        {
+          "beat": 1,
+          "duration": 1,
+          "string": 0,
+          "fret": 2
+        }
+      ],
+      "rests": [
+        {
+          "beat": 2,
+          "duration": 2
+        }
+      ]
+    }
+  ],
+  "backing": {
+    "measures": [
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "before-you-play",
+  "title": "Before You Play",
+  "description": "Get comfortable, make your first sounds and feel ready for a song.",
+  "youtubeVideo": {
+    "url": "https://www.youtube.com/watch?v=dYC9awwT_YQ",
+    "startSeconds": 51,
+    "endSeconds": 176,
+    "author": "Bradford Werner - This is Classical Guitar"
+  },
+  "lessons": [
+    {
+      "id": "level-0-before-you-play-01-hold-guitar",
+      "title": "Before You Play - Hold Your Guitar",
+      "description": "Get comfortable, then hear your first open string.",
+      "asset": "lessons/level-0-before-you-play-01-hold-guitar.json"
+    },
+    {
+      "id": "level-0-before-you-play-02-first-plucks",
+      "title": "Before You Play - Your First Plucks",
+      "description": "Relax your picking hand and make a clear sound.",
+      "asset": "lessons/level-0-before-you-play-02-first-plucks.json"
+    },
+    {
+      "id": "level-0-before-you-play-03-first-fretted-note",
+      "title": "Before You Play - Your First Fretted Note",
+      "description": "One finger, one new note and a relaxed hand.",
+      "asset": "lessons/level-0-before-you-play-03-first-fretted-note.json"
+    }
+  ]
+}

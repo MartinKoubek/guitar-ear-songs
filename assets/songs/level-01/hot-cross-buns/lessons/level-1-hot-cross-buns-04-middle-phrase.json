@@ -567,5 +567,11 @@
         ]
       }
     ]
+  },
+  "youtubeVideo": {
+    "url": "https://www.youtube.com/watch?v=K4iLY5xctMA",
+    "startSeconds": 298,
+    "endSeconds": 341,
+    "author": "Andy Guitar"
   }
 }

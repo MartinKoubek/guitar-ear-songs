@@ -9,6 +9,7 @@ device evidence and legacy test fixtures out of this repository. Never add commi
 - [REFERENCE.md](REFERENCE.md): Hot Cross Buns, the reference learning progression.
 - [FORMAT.md](FORMAT.md): detailed score, backing, polyphony and lyrics contracts.
 - [LIBRARY.md](LIBRARY.md): catalog, manifest, artwork and archive constraints.
+- [GETTING-STARTED.md](GETTING-STARTED.md): optional Level 0 introduction, video sources, untimed targets and reader-before-content compatibility.
 - [LYRICS.md](LYRICS.md): existing lyric arrangements and timing decisions.
 - [QUIET-MORNING.md](QUIET-MORNING.md) and [AMAZING-GRACE.md](AMAZING-GRACE.md): song-specific arrangements.
 

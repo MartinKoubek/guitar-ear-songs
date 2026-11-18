@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "title": "Before You Play - Your First Plucks",
+  "bpm": 60,
+  "beatsPerMeasure": 4,
+  "showChordNames": false,
+  "lesson": {
+    "instructions": "Rest your right forearm lightly on the guitar and let your hand sit naturally near the sound hole. Keep your wrist relaxed. Gently pluck the thin high E string with your index finger, moving towards your palm. Let it ring, relax and try again three times. Your left hand can rest. Choose the open E target and listen for feedback; there is no timer.",
+    "selfPaced": true,
+    "defaultSound": "none",
+    "previewMelody": true
+  },
+  "youtubeVideo": {
+    "url": "https://www.youtube.com/watch?v=RDOqubQd9Jo",
+    "startSeconds": 320,
+    "endSeconds": 407,
+    "author": "Bradford Werner - This is Classical Guitar"
+  },
+  "measures": [
+    {
+      "metronome": true,
+      "notes": []
+    },
+    {
+      "metronome": true,
+      "notes": []
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 2,
+          "string": 0,
+          "fret": 0
+        }
+      ],
+      "rests": [
+        {
+          "beat": 2,
+          "duration": 2
+        }
+      ]
+    }
+  ],
+  "backing": {
+    "measures": [
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      }
+    ]
+  }
+}

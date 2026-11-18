@@ -52,5 +52,11 @@
       "description": "Keep high E frets 4/2; move melody E to B-string fret 5. Familiar E/B bass. 45 BPM.",
       "asset": "lessons/level-1-hot-cross-buns-08-across-strings.json"
     }
-  ]
+  ],
+  "youtubeVideo": {
+    "url": "https://www.youtube.com/watch?v=K4iLY5xctMA",
+    "startSeconds": 86,
+    "endSeconds": 341,
+    "author": "Andy Guitar - melody tutorial"
+  }
 }

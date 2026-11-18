@@ -52,3 +52,7 @@ Update Songs downloads the complete GitHub ZIP, validates all required manifests
 The current migration preserves all 23 score files byte for byte and all composition/lesson IDs. Tests cover the real archive installer, ordering, unsafe references, missing pictures, image-only changes, offline reopen and Android decoding/fallback. The existing tests continue to check the full curriculum, scoring, PDF and Home selection.
 
 Publish the song submodule first, then record its commit in the app repository. Keep changes local until publication is requested.
+
+## Optional introductory Level 0
+
+A compatible reader accepts an optional numbered Level 0 before levels 1-15; levelCount remains the highest regular level. Negative numbers are never public catalog data. The previous reader rejects Level 0, so publish only after compatible app rollout. Introduction lesson/video decisions: GETTING-STARTED.md. Composition and exercise youtubeVideo blocks are independent and use url/startSeconds/endSeconds/optional author; omission hides that action.

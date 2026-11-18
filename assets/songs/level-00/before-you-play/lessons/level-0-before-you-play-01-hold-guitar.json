@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "title": "Before You Play - Hold Your Guitar",
+  "bpm": 60,
+  "beatsPerMeasure": 4,
+  "showChordNames": false,
+  "lesson": {
+    "instructions": "Sit comfortably with relaxed shoulders and support the guitar so your left hand does not need to hold it up. The video demonstrates a classical position: use a suitable guitar support or a footstool under your left foot if comfortable. Choose the open high E target, start listening and pluck the thin string gently. Try three separate plucks at your own pace. The app checks the sound, not your posture. Finish when you feel comfortable.",
+    "selfPaced": true,
+    "defaultSound": "none",
+    "previewMelody": true
+  },
+  "youtubeVideo": {
+    "url": "https://www.youtube.com/watch?v=dYC9awwT_YQ",
+    "startSeconds": 51,
+    "endSeconds": 176,
+    "author": "Bradford Werner - This is Classical Guitar"
+  },
+  "measures": [
+    {
+      "metronome": true,
+      "notes": []
+    },
+    {
+      "metronome": true,
+      "notes": []
+    },
+    {
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 2,
+          "string": 0,
+          "fret": 0
+        }
+      ],
+      "rests": [
+        {
+          "beat": 2,
+          "duration": 2
+        }
+      ]
+    }
+  ],
+  "backing": {
+    "measures": [
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      },
+      {
+        "notes": []
+      }
+    ]
+  }
+}

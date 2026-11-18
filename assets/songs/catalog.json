@@ -4,6 +4,14 @@
   "defaultCover": "default-cover.webp",
   "levels": [
     {
+      "number": 0,
+      "title": "Before You Play",
+      "description": "Hold your guitar, relax your hands and make your first sounds.",
+      "songs": [
+        "level-00/before-you-play/song.json"
+      ]
+    },
+    {
       "number": 1,
       "title": "First Notes & Rhythm",
       "description": "Open strings, your first fretted notes and a steady rhythm.",
