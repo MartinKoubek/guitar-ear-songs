@@ -56,3 +56,51 @@ A lyric-capable APK accepts root `lyrics: {"language":"en","lines":[...]}`. `lan
 ```
 
 Lyrics start no earlier than measure3. Lines may span bars but must fit the song; words must fit their line. All times are finite JSON numbers, ordered without overlaps; gaps are allowed. Include punctuation in words. One token may cover several notes; repeat lines explicitly at the actual repeated times. Tokens join with one space. Limits: 512 lines, 64 words/line,128 characters/token,512 characters/line,64,000 text characters total; no blank/control-character tokens. Older APKs ignore this optional field. Do not change notes/backing/IDs to add lyrics. Only use text that may be distributed with the library. The current timed full player displays/highlights it; static practice, untimed targets, synthesized audio and PDF do not render/sing it.
+
+## Optional independent multi-instrument ensemble
+
+The ensemble-capable reader added on 2026-11-20 accepts a top-level `ensemble`
+object independently of learner score version. Missing ensemble preserves legacy
+`backing` and generated guitar/piano behavior. Explicit ensemble takes priority
+only in Backing mode; empty tracks mean silence. Count-in and student scoring are
+unchanged. Older readers ignore this optional block and keep the preserved legacy
+backing. Install a compatible reader before expecting the new sound.
+
+```json
+"ensemble": {
+  "version": 1,
+  "volume": 0.8,
+  "tracks": [{
+    "instrument": "cello",
+    "volume": 0.6,
+    "measures": [
+      {"notes": []},
+      {"notes": []},
+      {"notes": [{"beat": 0, "duration": 4, "midi": 40, "velocity": 70}]}
+    ]
+  }]
+}
+```
+
+The example assumes a three-bar 4/4 learner score. Every track has exactly the
+learner's measure count, including two empty count-in measures. Instruments:
+`piano`, `cello`, `strings`, `flute`, `harp`. MIDI is sounding pitch, integer24..96
+(60=middle C); velocity is integer1..127, default72. Track and ensemble volume are
+finite0..1, default1. Beat is finite/nonnegative; duration is finite, at least
+0.0625 quarter-note beats, and must fit the measure. Repeated pitches on one track
+must not overlap; different pitches may form chords. Limits: eight tracks,
+20,000 notes total and32 simultaneous notes. Split notes at barlines; this initial
+format rearticulates segments and has no orchestral tie/articulation system.
+
+For explicitly requested automatic harmony instead of exact tracks, use:
+
+```json
+"ensemble": {"version": 1, "style": "chamber", "volume": 0.8}
+```
+
+Do not combine style and tracks. Chamber is a deterministic harmony-only pattern
+arranger using written/inferred chords; whole learner-rest bars stay silent.
+Practice excerpts preserve the original arrangement and clip notes to the selected
+bars. Exact-note Listen/catalog demonstrations remove ensemble. Velocity currently
+changes loudness, not recorded sample layers. The Android sampler is mono and
+ships an attributed MS Basic-derived PCM bank, not MuseSounds or YouTube audio.

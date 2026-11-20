@@ -1088,5 +1088,1289 @@
     "startSeconds": 208,
     "endSeconds": 341,
     "author": "Andy Guitar"
+  },
+  "ensemble": {
+    "version": 1,
+    "volume": 0.9,
+    "tracks": [
+      {
+        "instrument": "piano",
+        "volume": 0.8,
+        "measures": [
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": [
+              {
+                "beat": 0.0,
+                "duration": 1.0,
+                "midi": 56,
+                "velocity": 64
+              },
+              {
+                "beat": 1.0,
+                "duration": 1.0,
+                "midi": 59,
+                "velocity": 59
+              },
+              {
+                "beat": 2.0,
+                "duration": 1.0,
+                "midi": 64,
+                "velocity": 59
+              },
+              {
+                "beat": 3.0,
+                "duration": 1.0,
+                "midi": 59,
+                "velocity": 59
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0.0,
+                "duration": 1.0,
+                "midi": 56,
+                "velocity": 64
+              },
+              {
+                "beat": 1.0,
+                "duration": 1.0,
+                "midi": 59,
+                "velocity": 59
+              },
+              {
+                "beat": 2.0,
+                "duration": 1.0,
+                "midi": 64,
+                "velocity": 59
+              },
+              {
+                "beat": 3.0,
+                "duration": 1.0,
+                "midi": 59,
+                "velocity": 59
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0.0,
+                "duration": 1.0,
+                "midi": 57,
+                "velocity": 64
+              },
+              {
+                "beat": 1.0,
+                "duration": 1.0,
+                "midi": 61,
+                "velocity": 59
+              },
+              {
+                "beat": 2.0,
+                "duration": 1.0,
+                "midi": 63,
+                "velocity": 59
+              },
+              {
+                "beat": 3.0,
+                "duration": 1.0,
+                "midi": 57,
+                "velocity": 59
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0.0,
+                "duration": 1.0,
+                "midi": 56,
+                "velocity": 64
+              },
+              {
+                "beat": 1.0,
+                "duration": 1.0,
+                "midi": 59,
+                "velocity": 59
+              },
+              {
+                "beat": 2.0,
+                "duration": 1.0,
+                "midi": 64,
+                "velocity": 59
+              },
+              {
+                "beat": 3.0,
+                "duration": 1.0,
+                "midi": 59,
+                "velocity": 59
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0.0,
+                "duration": 1.0,
+                "midi": 56,
+                "velocity": 68
+              },
+              {
+                "beat": 1.0,
+                "duration": 1.0,
+                "midi": 59,
+                "velocity": 63
+              },
+              {
+                "beat": 2.0,
+                "duration": 1.0,
+                "midi": 64,
+                "velocity": 63
+              },
+              {
+                "beat": 3.0,
+                "duration": 1.0,
+                "midi": 59,
+                "velocity": 63
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0.0,
+                "duration": 1.0,
+                "midi": 56,
+                "velocity": 68
+              },
+              {
+                "beat": 1.0,
+                "duration": 1.0,
+                "midi": 59,
+                "velocity": 63
+              },
+              {
+                "beat": 2.0,
+                "duration": 1.0,
+                "midi": 64,
+                "velocity": 63
+              },
+              {
+                "beat": 3.0,
+                "duration": 1.0,
+                "midi": 59,
+                "velocity": 63
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0.0,
+                "duration": 1.0,
+                "midi": 57,
+                "velocity": 68
+              },
+              {
+                "beat": 1.0,
+                "duration": 1.0,
+                "midi": 61,
+                "velocity": 63
+              },
+              {
+                "beat": 2.0,
+                "duration": 1.0,
+                "midi": 63,
+                "velocity": 63
+              },
+              {
+                "beat": 3.0,
+                "duration": 1.0,
+                "midi": 57,
+                "velocity": 63
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0.0,
+                "duration": 1.0,
+                "midi": 56,
+                "velocity": 68
+              },
+              {
+                "beat": 1.0,
+                "duration": 1.0,
+                "midi": 59,
+                "velocity": 63
+              },
+              {
+                "beat": 2.0,
+                "duration": 1.0,
+                "midi": 64,
+                "velocity": 63
+              },
+              {
+                "beat": 3.0,
+                "duration": 1.0,
+                "midi": 59,
+                "velocity": 63
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0.0,
+                "duration": 1.0,
+                "midi": 56,
+                "velocity": 72
+              },
+              {
+                "beat": 1.0,
+                "duration": 1.0,
+                "midi": 59,
+                "velocity": 67
+              },
+              {
+                "beat": 2.0,
+                "duration": 1.0,
+                "midi": 64,
+                "velocity": 67
+              },
+              {
+                "beat": 3.0,
+                "duration": 1.0,
+                "midi": 59,
+                "velocity": 67
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0.0,
+                "duration": 1.0,
+                "midi": 56,
+                "velocity": 72
+              },
+              {
+                "beat": 1.0,
+                "duration": 1.0,
+                "midi": 59,
+                "velocity": 67
+              },
+              {
+                "beat": 2.0,
+                "duration": 1.0,
+                "midi": 64,
+                "velocity": 67
+              },
+              {
+                "beat": 3.0,
+                "duration": 1.0,
+                "midi": 59,
+                "velocity": 67
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0.0,
+                "duration": 1.0,
+                "midi": 57,
+                "velocity": 72
+              },
+              {
+                "beat": 1.0,
+                "duration": 1.0,
+                "midi": 61,
+                "velocity": 67
+              },
+              {
+                "beat": 2.0,
+                "duration": 1.0,
+                "midi": 63,
+                "velocity": 67
+              },
+              {
+                "beat": 3.0,
+                "duration": 1.0,
+                "midi": 57,
+                "velocity": 67
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 1,
+                "midi": 52,
+                "velocity": 68
+              },
+              {
+                "beat": 0,
+                "duration": 1,
+                "midi": 59,
+                "velocity": 68
+              },
+              {
+                "beat": 1,
+                "duration": 1,
+                "midi": 56,
+                "velocity": 62
+              },
+              {
+                "beat": 1,
+                "duration": 1,
+                "midi": 64,
+                "velocity": 62
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 52,
+                "velocity": 64
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 59,
+                "velocity": 64
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 64,
+                "velocity": 64
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "instrument": "cello",
+        "volume": 0.66,
+        "measures": [
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 40,
+                "velocity": 64
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 40,
+                "velocity": 59
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 40,
+                "velocity": 64
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 40,
+                "velocity": 59
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 45,
+                "velocity": 64
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 59
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 40,
+                "velocity": 64
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 40,
+                "velocity": 59
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 40,
+                "velocity": 68
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 40,
+                "velocity": 63
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 40,
+                "velocity": 68
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 40,
+                "velocity": 63
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 45,
+                "velocity": 68
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 63
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 40,
+                "velocity": 68
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 40,
+                "velocity": 63
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 40,
+                "velocity": 72
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 40,
+                "velocity": 67
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 40,
+                "velocity": 72
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 40,
+                "velocity": 67
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 45,
+                "velocity": 72
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 67
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 4,
+                "midi": 40,
+                "velocity": 67
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "instrument": "strings",
+        "volume": 0.37,
+        "measures": [
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 44,
+                "velocity": 50
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 44,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 50
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 44,
+                "velocity": 50
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 44,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 50
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 45,
+                "velocity": 50
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 49,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 42,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 45,
+                "velocity": 50
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 44,
+                "velocity": 50
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 44,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 50
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 44,
+                "velocity": 54
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 54
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 44,
+                "velocity": 54
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 54
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 44,
+                "velocity": 54
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 54
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 44,
+                "velocity": 54
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 54
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 45,
+                "velocity": 54
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 49,
+                "velocity": 54
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 42,
+                "velocity": 54
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 45,
+                "velocity": 54
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 44,
+                "velocity": 54
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 54
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 44,
+                "velocity": 54
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 54
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 44,
+                "velocity": 58
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 58
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 44,
+                "velocity": 58
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 58
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 44,
+                "velocity": 58
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 58
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 44,
+                "velocity": 58
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 47,
+                "velocity": 58
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 45,
+                "velocity": 58
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 49,
+                "velocity": 58
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 42,
+                "velocity": 58
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 45,
+                "velocity": 58
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 4,
+                "midi": 52,
+                "velocity": 55
+              },
+              {
+                "beat": 0,
+                "duration": 4,
+                "midi": 56,
+                "velocity": 55
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "instrument": "strings",
+        "volume": 0.32,
+        "measures": [
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 64,
+                "velocity": 50
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 59,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 64,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 59,
+                "velocity": 50
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 64,
+                "velocity": 50
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 59,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 64,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 59,
+                "velocity": 50
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 64,
+                "velocity": 50
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 61,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 63,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 57,
+                "velocity": 50
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 64,
+                "velocity": 50
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 59,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 64,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 59,
+                "velocity": 50
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 64,
+                "velocity": 54
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 59,
+                "velocity": 54
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 64,
+                "velocity": 54
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 59,
+                "velocity": 54
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 64,
+                "velocity": 54
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 59,
+                "velocity": 54
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 64,
+                "velocity": 54
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 59,
+                "velocity": 54
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 64,
+                "velocity": 54
+              },
+              {
+                "beat": 0,
+                "duration": 2,
+                "midi": 61,
+                "velocity": 54
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 63,
+                "velocity": 54
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 57,
+                "velocity": 54
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 4,
+                "midi": 59,
+                "velocity": 57
+              },
+              {
+                "beat": 0,
+                "duration": 4,
+                "midi": 64,
+                "velocity": 57
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "instrument": "harp",
+        "volume": 0.45,
+        "measures": [
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": []
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 1,
+                "midi": 64,
+                "velocity": 53
+              },
+              {
+                "beat": 0,
+                "duration": 1,
+                "midi": 71,
+                "velocity": 53
+              },
+              {
+                "beat": 2,
+                "duration": 1,
+                "midi": 64,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 1,
+                "midi": 68,
+                "velocity": 50
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 1,
+                "midi": 64,
+                "velocity": 53
+              },
+              {
+                "beat": 0,
+                "duration": 1,
+                "midi": 71,
+                "velocity": 53
+              },
+              {
+                "beat": 2,
+                "duration": 1,
+                "midi": 64,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 1,
+                "midi": 68,
+                "velocity": 50
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 1,
+                "midi": 64,
+                "velocity": 53
+              },
+              {
+                "beat": 0,
+                "duration": 1,
+                "midi": 71,
+                "velocity": 53
+              },
+              {
+                "beat": 2,
+                "duration": 1,
+                "midi": 63,
+                "velocity": 50
+              },
+              {
+                "beat": 2,
+                "duration": 1,
+                "midi": 69,
+                "velocity": 50
+              }
+            ]
+          },
+          {
+            "notes": [
+              {
+                "beat": 0,
+                "duration": 1,
+                "midi": 64,
+                "velocity": 57
+              },
+              {
+                "beat": 1,
+                "duration": 1,
+                "midi": 71,
+                "velocity": 53
+              },
+              {
+                "beat": 2,
+                "duration": 2,
+                "midi": 76,
+                "velocity": 51
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 }

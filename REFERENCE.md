@@ -14,3 +14,14 @@ Preserve the familiar melody and introduce one new skill per lesson. The actual 
 The eighth lesson is intentionally a small step from the seventh. Do not replace it with the deferred lower-octave D/G study. The catalog currently contains only these eight lessons, in Level1 / Hot Cross Buns; levels2-15 are empty placeholders.
 
 All lessons contain two real empty count-in bars. Unknown notes are yellow, confirmed correct notes green, wrong notes red. Every written note contributes to the result denominator; simultaneous bass and melody receive independent results. Main backing never substitutes for the learner's bass. Instructional catalog previews may explicitly demonstrate written learner notes.
+
+## Optional chamber accompaniment
+
+Lesson5, The Complete Tune, includes an independent `ensemble` version1 part:
+piano, cello, two string tracks and harp, with two empty count-in bars and three
+four-bar E | E | A/B7 | E cycles. Strings/harp enter gradually. Learner notes,
+lyrics, tempo, video, IDs and legacy guitar backing are unchanged. Select Backing
+in the main player to hear the ensemble; exact-note Listen previews still teach
+the learner melody alone. This needs the ensemble-capable app reader installed
+on the Samsung preview on 2026-11-20. Older readers ignore ensemble and use the
+preserved legacy backing. See FORMAT.md for the contract.
