@@ -33,5 +33,11 @@
     "lessonId": "level-1-amazing-grace-04-complete-accompaniment",
     "firstMeasure": 4,
     "lastMeasure": 19
+  },
+  "youtubeVideo": {
+    "url": "https://www.youtube.com/watch?v=6AMGNWBoHcc",
+    "startSeconds": 408,
+    "endSeconds": 434,
+    "author": "Relax and Learn Guitar"
   }
 }

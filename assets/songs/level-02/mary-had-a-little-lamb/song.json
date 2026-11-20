@@ -39,5 +39,11 @@
     "lessonId": "level-2-mary-05-complete-fingerstyle",
     "firstMeasure": 9,
     "lastMeasure": 16
+  },
+  "youtubeVideo": {
+    "url": "https://www.youtube.com/watch?v=HHJN1uiY0GA",
+    "startSeconds": 147,
+    "endSeconds": 166,
+    "author": "Hub Guitar"
   }
 }

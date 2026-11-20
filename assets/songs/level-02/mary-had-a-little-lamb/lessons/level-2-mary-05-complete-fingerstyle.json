@@ -1268,5 +1268,11 @@
     "version": 1,
     "style": "chamber",
     "volume": 0.9
+  },
+  "youtubeVideo": {
+    "url": "https://www.youtube.com/watch?v=HHJN1uiY0GA",
+    "startSeconds": 34,
+    "endSeconds": 121,
+    "author": "Hub Guitar"
   }
 }

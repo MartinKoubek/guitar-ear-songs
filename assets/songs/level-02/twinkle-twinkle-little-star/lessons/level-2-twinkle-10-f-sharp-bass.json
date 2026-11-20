@@ -2065,5 +2065,11 @@
     "version": 1,
     "style": "chamber",
     "volume": 0.9
+  },
+  "youtubeVideo": {
+    "url": "https://www.youtube.com/watch?v=caA6Pr1scgg",
+    "startSeconds": 226,
+    "endSeconds": 265,
+    "author": "Six String Fingerpicking"
   }
 }

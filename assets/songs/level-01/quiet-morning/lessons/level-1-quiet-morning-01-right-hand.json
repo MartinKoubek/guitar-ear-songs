@@ -247,5 +247,11 @@
     "version": 1,
     "style": "chamber",
     "volume": 0.9
+  },
+  "youtubeVideo": {
+    "url": "https://www.youtube.com/watch?v=RDOqubQd9Jo",
+    "startSeconds": 656,
+    "endSeconds": 846,
+    "author": "Bradford Werner - technique reference"
   }
 }

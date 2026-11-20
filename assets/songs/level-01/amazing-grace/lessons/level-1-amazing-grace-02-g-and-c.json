@@ -735,5 +735,11 @@
     "version": 1,
     "style": "chamber",
     "volume": 0.9
+  },
+  "youtubeVideo": {
+    "url": "https://www.youtube.com/watch?v=6AMGNWBoHcc",
+    "startSeconds": 299,
+    "endSeconds": 327,
+    "author": "Relax and Learn Guitar"
   }
 }

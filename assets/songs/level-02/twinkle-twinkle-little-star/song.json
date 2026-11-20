@@ -69,5 +69,11 @@
     "lessonId": "level-2-twinkle-09-complete-fingerstyle",
     "firstMeasure": 6,
     "lastMeasure": 17
+  },
+  "youtubeVideo": {
+    "url": "https://www.youtube.com/watch?v=caA6Pr1scgg",
+    "startSeconds": 8,
+    "endSeconds": 46,
+    "author": "Six String Fingerpicking - D/F# version"
   }
 }
