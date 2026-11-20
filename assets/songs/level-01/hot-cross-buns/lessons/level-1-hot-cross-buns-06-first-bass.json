@@ -789,5 +789,11 @@
         ]
       }
     ]
+  },
+  "youtubeVideo": {
+    "url": "https://www.youtube.com/watch?v=Q1dhMLWii0M",
+    "startSeconds": 95,
+    "endSeconds": 255,
+    "author": "Dave's Guitar From Scratch"
   }
 }

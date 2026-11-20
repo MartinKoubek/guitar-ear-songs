@@ -667,5 +667,11 @@
         ]
       }
     ]
+  },
+  "youtubeVideo": {
+    "url": "https://www.youtube.com/watch?v=t3YdTRacUEM",
+    "startSeconds": 133,
+    "endSeconds": 225,
+    "author": "Adam Rafferty"
   }
 }

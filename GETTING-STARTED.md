@@ -26,7 +26,10 @@ Andy Guitar: https://www.youtube.com/watch?v=K4iLY5xctMA . His written explanati
 - Steps 2 and 3: 86-207, first fretted notes/opening phrase.
 - Step 4: 298-341, quicker middle and return.
 - Step 5: 208-341, rhythm and remaining bars.
-- Step 1 and steps 6-8: no clip. Do not substitute this melody-only tutorial for the added bass/string-change arrangements.
+- Step 1 and step 8: no clip. Do not substitute the melody-only tutorial for the added bass/string-change arrangements.
+- Step 6: Dave's Guitar From Scratch, https://www.youtube.com/watch?v=Q1dhMLWii0M , 95-255 seconds (1:35-4:15). Author chapters cover thumb use on alternate low strings and bass-string practice. Approved as a technique introduction, not an exact Hot Cross Buns demonstration; learners follow our written E-bass exercise.
+- Step 7: Adam Rafferty, https://www.youtube.com/watch?v=t3YdTRacUEM , 133-225 seconds (2:13-3:45). Author chapter explains the right-hand pinch, ending before the blues walkthrough. Approved for simultaneous thumb/melody plucking; the surrounding arrangement is blues in E, not our Hot Cross Buns score.
+- Steps 6-7 were approved on 2026-11-20. Intervals are based on the authors' published chapter timestamps, not a frame-accurate visual audition. Step 8 remains without a clip pending a concrete demonstration of the matching melody/string-change and E/B bass arrangement.
 
 All existing HCB notes, lyrics, backing, stable IDs and authored tempos remain unchanged.
 
