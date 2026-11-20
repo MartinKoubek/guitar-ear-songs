@@ -393,5 +393,10 @@
     "startSeconds": 86,
     "endSeconds": 207,
     "author": "Andy Guitar"
+  },
+  "ensemble": {
+    "version": 1,
+    "style": "chamber",
+    "volume": 0.9
   }
 }

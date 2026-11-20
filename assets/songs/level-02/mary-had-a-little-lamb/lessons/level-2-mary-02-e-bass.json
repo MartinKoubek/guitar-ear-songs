@@ -1030,5 +1030,10 @@
         ]
       }
     ]
+  },
+  "ensemble": {
+    "version": 1,
+    "style": "chamber",
+    "volume": 0.9
   }
 }

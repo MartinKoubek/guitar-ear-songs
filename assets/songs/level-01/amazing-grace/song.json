@@ -28,5 +28,10 @@
       "asset": "lessons/level-1-amazing-grace-04-complete-accompaniment.json"
     }
   ],
-  "cover": "cover.webp"
+  "cover": "cover.webp",
+  "audioPreview": {
+    "lessonId": "level-1-amazing-grace-04-complete-accompaniment",
+    "firstMeasure": 4,
+    "lastMeasure": 19
+  }
 }

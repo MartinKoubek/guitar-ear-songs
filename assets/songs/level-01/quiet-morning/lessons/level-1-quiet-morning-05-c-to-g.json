@@ -418,5 +418,10 @@
   "chordFingerings": {
     "C": "Partial C: ring finger on A fret 3, index on B fret 1; G and high E open. Do not play the D or low E strings.",
     "G": "Partial G: middle finger on low E fret 3, ring finger on high E fret 3; G and B open. Do not play A or D."
+  },
+  "ensemble": {
+    "version": 1,
+    "style": "chamber",
+    "volume": 0.9
   }
 }

@@ -795,5 +795,10 @@
     "startSeconds": 95,
     "endSeconds": 255,
     "author": "Dave's Guitar From Scratch"
+  },
+  "ensemble": {
+    "version": 1,
+    "style": "chamber",
+    "volume": 0.9
   }
 }

@@ -52,5 +52,10 @@
       "asset": "lessons/level-1-quiet-morning-08-complete-piece.json"
     }
   ],
-  "cover": "cover.webp"
+  "cover": "cover.webp",
+  "audioPreview": {
+    "lessonId": "level-1-quiet-morning-08-complete-piece",
+    "firstMeasure": 3,
+    "lastMeasure": 10
+  }
 }

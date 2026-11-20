@@ -58,5 +58,10 @@
     "startSeconds": 86,
     "endSeconds": 341,
     "author": "Andy Guitar - melody tutorial"
+  },
+  "audioPreview": {
+    "lessonId": "level-1-hot-cross-buns-05-complete-song",
+    "firstMeasure": 3,
+    "lastMeasure": 14
   }
 }

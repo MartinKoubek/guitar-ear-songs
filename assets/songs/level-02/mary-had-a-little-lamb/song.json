@@ -34,5 +34,10 @@
       "description": "Play the full melody with the written G, Em and D chord voices.",
       "asset": "lessons/level-2-mary-05-complete-fingerstyle.json"
     }
-  ]
+  ],
+  "audioPreview": {
+    "lessonId": "level-2-mary-05-complete-fingerstyle",
+    "firstMeasure": 9,
+    "lastMeasure": 16
+  }
 }

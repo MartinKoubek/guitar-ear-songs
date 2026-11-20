@@ -56,3 +56,22 @@ Publish the song submodule first, then record its commit in the app repository. 
 ## Optional introductory Level 0
 
 A compatible reader accepts an optional numbered Level 0 before levels 1-15; levelCount remains the highest regular level. Negative numbers are never public catalog data. The previous reader rejects Level 0, so publish only after compatible app rollout. Introduction lesson/video decisions: GETTING-STARTED.md. Composition and exercise youtubeVideo blocks are independent and use url/startSeconds/endSeconds/optional author; omission hides that action.
+
+## Composition audio auditions
+
+Optional `audioPreview` on `song.json` selects an existing lesson from this composition
+and a complete musical passage: `{"lessonId":"...","firstMeasure":3,"lastMeasure":14}`.
+Numbers are inclusive one-based source measures, counting the two intro bars, and
+must be integral, ordered and within the timed lesson. Do not include count-in bars.
+The compatible Android reader validates references/ranges on update. Composition
+Play adds the written guitar arrangement to its orchestra; scored playback remains
+backing only. Exercise Play/Listen retains its separate exact-note demonstration.
+Without metadata a compatible reader uses the last lesson's musical remainder.
+Readers shipped before this feature ignore the optional manifest field.
+
+Current complete audition passages: HCB5 bars3-14, Quiet Morning8 bars3-10,
+Amazing Grace4 bars4-19, Mary5 bars9-16, Twinkle9 bars6-17. These omit preparatory
+passages and use one complete arrangement or its intended repetitions. Amazing
+Grace teaches accompaniment, so its audition demonstrates its arpeggio, not singing.
+Timed lessons use chamber ensemble backing, retaining the approved authored HCB5
+part. Untimed Level0 and first-note targets do not run continuous accompaniment.

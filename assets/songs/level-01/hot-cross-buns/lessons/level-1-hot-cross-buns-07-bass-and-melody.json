@@ -673,5 +673,10 @@
     "startSeconds": 133,
     "endSeconds": 225,
     "author": "Adam Rafferty"
+  },
+  "ensemble": {
+    "version": 1,
+    "style": "chamber",
+    "volume": 0.9
   }
 }

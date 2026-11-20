@@ -64,5 +64,10 @@
       "description": "Optional: replace the D bass with F-sharp on low E fret 2.",
       "asset": "lessons/level-2-twinkle-10-f-sharp-bass.json"
     }
-  ]
+  ],
+  "audioPreview": {
+    "lessonId": "level-2-twinkle-09-complete-fingerstyle",
+    "firstMeasure": 6,
+    "lastMeasure": 17
+  }
 }

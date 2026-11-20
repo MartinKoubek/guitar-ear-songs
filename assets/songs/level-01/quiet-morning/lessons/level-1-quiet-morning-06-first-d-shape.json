@@ -273,5 +273,10 @@
   },
   "chordFingerings": {
     "D": "Open D: index on G fret 2, middle on high E fret 2, ring on B fret 3; D open. Do not play A or low E."
+  },
+  "ensemble": {
+    "version": 1,
+    "style": "chamber",
+    "volume": 0.9
   }
 }
